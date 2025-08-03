@@ -1,0 +1,1001 @@
+movement_id,product_id,movement_type,quantity,movement_date,reference_number,notes
+1,432,Stock In,10,2023-05-29,INV-000001,Stock In for BrandB Protein Bar
+2,258,Stock In,130,2020-11-04,INV-000002,Stock In for BrandE Doll
+3,53,Stock Out,-2,2023-02-22,INV-000003,Stock Out for Premium Coffee Beans
+4,19,Return,2,2020-11-16,INV-000004,Return for Premium Tea Set
+5,217,Stock In,143,2023-04-11,INV-000005,Stock In for Elite Yoga Mat
+6,29,Adjustment,2,2021-01-03,INV-000006,Adjustment for BrandD Cookbook
+7,186,Stock Out,-39,2023-08-10,INV-000007,Stock Out for BrandD Cookbook
+8,101,Adjustment,16,2022-04-26,INV-000008,Adjustment for BrandA Jacket
+9,164,Stock In,43,2021-04-25,INV-000009,Stock In for BrandB Phone Mount
+10,64,Stock Out,-5,2021-11-02,INV-000010,Stock Out for BrandA Doll
+11,247,Damaged,-5,2022-11-22,INV-000011,Damaged for BrandD Self-Help Book
+12,316,Return,6,2020-08-23,INV-000012,Return for Deluxe Self-Help Book
+13,73,Return,6,2022-07-01,INV-000013,Return for Deluxe Vacuum Cleaner
+14,416,Damaged,-1,2021-02-08,INV-000014,Damaged for Basic Shampoo
+15,404,Stock Out,-13,2020-01-29,INV-000015,Stock Out for Elite Self-Help Book
+16,23,Damaged,-5,2023-01-07,INV-000016,Damaged for BrandC Shampoo
+17,413,Stock In,121,2020-01-07,INV-000017,Stock In for Elite Craft Paper
+18,179,Damaged,-3,2020-05-17,INV-000018,Damaged for Premium Running Shoes
+19,68,Return,6,2020-01-25,INV-000019,Return for BrandB Boots
+20,484,Stock Out,-47,2021-07-26,INV-000020,Stock Out for Standard Chocolate
+21,363,Stock In,66,2020-02-19,INV-000021,Stock In for Basic Water Bottle
+22,299,Stock In,123,2022-11-17,INV-000022,Stock In for Premium Craft Paper
+23,289,Damaged,-4,2022-10-07,INV-000023,Damaged for Elite Laptop
+24,69,Adjustment,13,2023-12-05,INV-000024,Adjustment for BrandE Tent
+25,339,Return,6,2021-11-28,INV-000025,Return for Standard Running Shoes
+26,424,Damaged,-3,2020-01-11,INV-000026,Damaged for Standard Smartphone
+27,195,Damaged,-3,2023-03-23,INV-000027,Damaged for Elite Bedding Set
+28,323,Stock In,87,2021-11-17,INV-000028,Stock In for Basic Speaker
+29,177,Stock In,85,2023-06-20,INV-000029,Stock In for Basic Tire Gauge
+30,272,Return,3,2021-05-23,INV-000030,Return for Basic Tent
+31,336,Return,7,2023-06-27,INV-000031,Return for Elite Tea Set
+32,119,Adjustment,5,2020-09-19,INV-000032,Adjustment for BrandA Bedding Set
+33,364,Return,3,2022-10-24,INV-000033,Return for BrandD Hat
+34,364,Return,6,2020-08-01,INV-000034,Return for BrandD Hat
+35,486,Damaged,-1,2021-08-12,INV-000035,Damaged for Basic Glue Set
+36,12,Stock Out,-3,2021-09-23,INV-000036,Stock Out for BrandE T-Shirt
+37,427,Stock Out,-42,2023-02-07,INV-000037,Stock Out for BrandC Boots
+38,366,Adjustment,0,2020-04-04,INV-000038,Adjustment for Premium Coffee Maker
+39,30,Adjustment,5,2020-10-26,INV-000039,Adjustment for BrandA Vitamins
+40,453,Stock In,134,2022-03-01,INV-000040,Stock In for Standard Craft Paper
+41,358,Adjustment,-8,2021-08-28,INV-000041,Adjustment for BrandA Toy Car
+42,464,Damaged,-2,2023-03-21,INV-000042,Damaged for BrandC Tire Gauge
+43,468,Adjustment,-14,2022-05-21,INV-000043,Adjustment for Deluxe Tablet
+44,416,Return,8,2021-06-09,INV-000044,Return for Basic Shampoo
+45,12,Stock In,123,2023-02-12,INV-000045,Stock In for BrandE T-Shirt
+46,138,Damaged,-4,2023-02-28,INV-000046,Damaged for BrandE Board Game
+47,139,Damaged,-3,2022-12-27,INV-000047,Damaged for BrandB Coffee Beans
+48,415,Adjustment,8,2021-07-08,INV-000048,Adjustment for Deluxe Fiction Novel
+49,258,Damaged,-1,2020-06-25,INV-000049,Damaged for BrandE Doll
+50,191,Stock In,111,2023-08-15,INV-000050,Stock In for BrandE Glue Set
+51,44,Return,8,2023-08-05,INV-000051,Return for BrandD Tablet
+52,436,Stock Out,-28,2021-08-16,INV-000052,Stock Out for BrandE Paint Set
+53,500,Stock In,139,2022-07-05,INV-000053,Stock In for Elite Plant Pot
+54,470,Damaged,-2,2023-08-30,INV-000054,Damaged for BrandD Fiction Novel
+55,139,Damaged,-4,2023-01-06,INV-000055,Damaged for BrandB Coffee Beans
+56,225,Damaged,-3,2021-03-19,INV-000056,Damaged for Deluxe Car Mat
+57,162,Return,8,2020-04-17,INV-000057,Return for BrandE Glue Set
+58,478,Stock In,50,2021-07-24,INV-000058,Stock In for BrandA Air Freshener
+59,25,Damaged,-2,2020-08-12,INV-000059,Damaged for Basic Glue Set
+60,5,Return,5,2021-12-30,INV-000060,Return for BrandD Dress
+61,200,Damaged,-5,2020-10-28,INV-000061,Damaged for Basic Car Mat
+62,190,Adjustment,-5,2022-06-17,INV-000062,Adjustment for Basic Fiction Novel
+63,157,Damaged,-1,2021-07-07,INV-000063,Damaged for BrandC Bicycle
+64,499,Return,1,2021-08-22,INV-000064,Return for Premium Biography
+65,375,Stock In,133,2023-07-10,INV-000065,Stock In for BrandC Doll
+66,171,Damaged,-2,2022-03-07,INV-000066,Damaged for BrandC Jacket
+67,205,Adjustment,-16,2022-11-08,INV-000067,Adjustment for Basic Protein Bar
+68,388,Return,6,2022-03-17,INV-000068,Return for Standard Fiction Novel
+69,203,Damaged,-2,2022-06-03,INV-000069,Damaged for Premium Laptop
+70,321,Damaged,-2,2020-04-12,INV-000070,Damaged for BrandA Coffee Beans
+71,111,Stock Out,-43,2020-11-21,INV-000071,Stock Out for Standard Perfume
+72,256,Return,4,2021-12-02,INV-000072,Return for BrandA Dress
+73,455,Return,2,2020-10-15,INV-000073,Return for BrandB Cookbook
+74,194,Adjustment,4,2022-09-17,INV-000074,Adjustment for Standard Protein Bar
+75,44,Stock Out,-5,2020-11-12,INV-000075,Stock Out for BrandD Tablet
+76,371,Stock Out,-1,2020-02-25,INV-000076,Stock Out for BrandA Running Shoes
+77,393,Damaged,-3,2022-07-26,INV-000077,Damaged for BrandE Action Figure
+78,267,Damaged,-5,2021-12-15,INV-000078,Damaged for BrandB Vacuum Cleaner
+79,185,Damaged,-1,2022-01-22,INV-000079,Damaged for BrandE Paint Set
+80,492,Stock Out,-10,2023-12-16,INV-000080,Stock Out for Elite Tablet
+81,279,Adjustment,-9,2021-11-28,INV-000081,Adjustment for BrandA Self-Help Book
+82,84,Return,7,2020-02-10,INV-000082,Return for Standard Coffee Beans
+83,293,Stock In,158,2023-01-10,INV-000083,Stock In for BrandA Dress
+84,314,Stock In,95,2022-10-02,INV-000084,Stock In for Basic Vacuum Cleaner
+85,176,Damaged,-2,2022-04-14,INV-000085,Damaged for BrandE Phone Mount
+86,473,Damaged,-1,2023-11-30,INV-000086,Damaged for BrandB T-Shirt
+87,138,Stock Out,-2,2021-02-18,INV-000087,Stock Out for BrandE Board Game
+88,256,Adjustment,-16,2021-05-18,INV-000088,Adjustment for BrandA Dress
+89,452,Return,6,2023-09-01,INV-000089,Return for Elite Shampoo
+90,487,Stock Out,-9,2023-04-19,INV-000090,Stock Out for BrandB Phone Mount
+91,95,Damaged,-3,2022-06-07,INV-000091,Damaged for BrandB Car Mat
+92,66,Damaged,-3,2023-06-16,INV-000092,Damaged for Premium Plant Pot
+93,179,Damaged,-4,2022-06-22,INV-000093,Damaged for Premium Running Shoes
+94,186,Stock In,198,2022-10-17,INV-000094,Stock In for BrandD Cookbook
+95,279,Stock In,119,2020-03-31,INV-000095,Stock In for BrandA Self-Help Book
+96,151,Stock In,137,2021-07-11,INV-000096,Stock In for Deluxe Doll
+97,456,Return,2,2021-07-23,INV-000097,Return for Deluxe Protein Bar
+98,480,Stock Out,-16,2022-06-30,INV-000098,Stock Out for Basic Phone Mount
+99,492,Stock In,23,2021-07-22,INV-000099,Stock In for Elite Tablet
+100,30,Damaged,-1,2023-09-14,INV-000100,Damaged for BrandA Vitamins
+101,19,Return,5,2021-08-04,INV-000101,Return for Premium Tea Set
+102,10,Stock Out,-25,2023-02-20,INV-000102,Stock Out for Deluxe Cookbook
+103,3,Return,2,2023-09-14,INV-000103,Return for Deluxe Glue Set
+104,130,Return,4,2022-10-28,INV-000104,Return for BrandE Jeans
+105,238,Return,7,2021-01-16,INV-000105,Return for BrandE Paint Set
+106,496,Stock In,101,2022-09-05,INV-000106,Stock In for BrandC Chocolate
+107,143,Return,5,2020-01-13,INV-000107,Return for Elite Bedding Set
+108,212,Adjustment,-4,2022-02-06,INV-000108,Adjustment for BrandC Self-Help Book
+109,224,Damaged,-4,2022-05-28,INV-000109,Damaged for Premium Sketchbook
+110,104,Stock In,144,2020-11-01,INV-000110,Stock In for BrandB Air Freshener
+111,437,Adjustment,14,2022-10-19,INV-000111,Adjustment for Deluxe Tea Set
+112,336,Adjustment,-16,2021-07-15,INV-000112,Adjustment for Elite Tea Set
+113,350,Stock Out,-32,2022-11-02,INV-000113,Stock Out for Basic Glue Set
+114,427,Adjustment,-6,2023-07-09,INV-000114,Adjustment for BrandC Boots
+115,408,Stock In,74,2020-08-10,INV-000115,Stock In for Deluxe Action Figure
+116,484,Damaged,-5,2022-10-22,INV-000116,Damaged for Standard Chocolate
+117,318,Return,3,2022-05-06,INV-000117,Return for BrandC Shampoo
+118,205,Stock Out,-46,2021-06-12,INV-000118,Stock Out for Basic Protein Bar
+119,259,Damaged,-2,2020-06-17,INV-000119,Damaged for Elite Vitamins
+120,322,Stock Out,-9,2021-02-23,INV-000120,Stock Out for Deluxe Jeans
+121,99,Stock Out,-37,2023-04-13,INV-000121,Stock Out for BrandB Protein Bar
+122,204,Damaged,-2,2020-09-08,INV-000122,Damaged for Deluxe Cookbook
+123,165,Adjustment,16,2020-02-18,INV-000123,Adjustment for BrandB Paint Set
+124,58,Stock In,128,2023-12-01,INV-000124,Stock In for BrandE Air Freshener
+125,200,Stock In,64,2020-10-10,INV-000125,Stock In for Basic Car Mat
+126,422,Stock In,84,2021-07-13,INV-000126,Stock In for Elite Makeup Kit
+127,227,Damaged,-3,2021-12-20,INV-000127,Damaged for BrandE Tablet
+128,181,Return,8,2022-09-16,INV-000128,Return for Elite Glue Set
+129,217,Stock In,103,2023-09-27,INV-000129,Stock In for Elite Yoga Mat
+130,413,Adjustment,-13,2022-08-09,INV-000130,Adjustment for Elite Craft Paper
+131,196,Return,7,2020-01-15,INV-000131,Return for Elite Shampoo
+132,108,Adjustment,0,2022-05-05,INV-000132,Adjustment for BrandD Backpack
+133,472,Damaged,-5,2021-04-17,INV-000133,Damaged for BrandC Sweater
+134,284,Damaged,-1,2020-07-21,INV-000134,Damaged for BrandB Tea Set
+135,314,Return,5,2022-01-28,INV-000135,Return for Basic Vacuum Cleaner
+136,345,Return,7,2022-10-03,INV-000136,Return for Deluxe Tea Set
+137,99,Return,7,2022-02-01,INV-000137,Return for BrandB Protein Bar
+138,111,Return,7,2022-02-27,INV-000138,Return for Standard Perfume
+139,380,Return,5,2022-09-11,INV-000139,Return for Standard Vitamins
+140,184,Return,1,2023-02-25,INV-000140,Return for BrandA Perfume
+141,184,Adjustment,-12,2020-01-18,INV-000141,Adjustment for BrandA Perfume
+142,318,Damaged,-3,2023-08-05,INV-000142,Damaged for BrandC Shampoo
+143,308,Stock Out,-38,2022-06-11,INV-000143,Stock Out for Standard Hat
+144,209,Adjustment,1,2021-10-18,INV-000144,Adjustment for BrandE Sketchbook
+145,173,Stock Out,-5,2022-10-02,INV-000145,Stock Out for BrandE Water Bottle
+146,155,Adjustment,-17,2021-08-11,INV-000146,Adjustment for Elite Chocolate
+147,399,Damaged,-5,2023-01-05,INV-000147,Damaged for BrandB Action Figure
+148,441,Damaged,-4,2022-12-19,INV-000148,Damaged for BrandC Sneakers
+149,317,Stock Out,-38,2023-02-17,INV-000149,Stock Out for Deluxe Cookbook
+150,329,Damaged,-4,2020-10-21,INV-000150,Damaged for BrandA Tea Set
+151,305,Return,6,2021-09-04,INV-000151,Return for BrandB Shampoo
+152,381,Adjustment,-11,2020-12-07,INV-000152,Adjustment for Standard Shampoo
+153,231,Stock In,120,2020-06-06,INV-000153,Stock In for Deluxe Laptop
+154,433,Damaged,-3,2023-11-18,INV-000154,Damaged for BrandC Fiction Novel
+155,362,Stock In,116,2023-05-28,INV-000155,Stock In for Standard Glue Set
+156,82,Stock Out,-39,2023-01-03,INV-000156,Stock Out for BrandC Hat
+157,185,Return,4,2023-08-14,INV-000157,Return for BrandE Paint Set
+158,447,Damaged,-4,2023-11-05,INV-000158,Damaged for Basic Fiction Novel
+159,434,Adjustment,-18,2020-05-06,INV-000159,Adjustment for BrandC Jeans
+160,223,Return,8,2020-10-13,INV-000160,Return for BrandE Chocolate
+161,395,Adjustment,6,2022-06-03,INV-000161,Adjustment for Deluxe Self-Help Book
+162,432,Stock Out,-38,2020-03-17,INV-000162,Stock Out for BrandB Protein Bar
+163,495,Stock Out,-11,2020-06-28,INV-000163,Stock Out for BrandE Makeup Kit
+164,310,Adjustment,-5,2020-04-23,INV-000164,Adjustment for Standard Chocolate
+165,237,Stock Out,-6,2023-01-19,INV-000165,Stock Out for Elite Paint Set
+166,358,Stock Out,-37,2021-05-04,INV-000166,Stock Out for BrandA Toy Car
+167,4,Stock Out,-2,2020-06-10,INV-000167,Stock Out for Standard Hat
+168,278,Stock In,38,2022-11-07,INV-000168,Stock In for BrandD Coffee Beans
+169,340,Adjustment,-19,2022-03-31,INV-000169,Adjustment for Deluxe Tea Set
+170,138,Adjustment,-4,2022-10-24,INV-000170,Adjustment for BrandE Board Game
+171,239,Damaged,-3,2021-12-03,INV-000171,Damaged for Elite Protein Bar
+172,484,Damaged,-4,2021-10-16,INV-000172,Damaged for Standard Chocolate
+173,422,Adjustment,-12,2023-11-27,INV-000173,Adjustment for Elite Makeup Kit
+174,275,Adjustment,2,2020-11-10,INV-000174,Adjustment for BrandA Sneakers
+175,473,Damaged,-4,2020-08-01,INV-000175,Damaged for BrandB T-Shirt
+176,182,Adjustment,-16,2021-07-20,INV-000176,Adjustment for Standard Tea Set
+177,457,Stock Out,-27,2023-05-31,INV-000177,Stock Out for Deluxe Fiction Novel
+178,386,Return,5,2021-12-10,INV-000178,Return for BrandB Hat
+179,219,Return,9,2021-03-08,INV-000179,Return for Elite Science Textbook
+180,402,Adjustment,-16,2022-07-16,INV-000180,Adjustment for BrandA Toy Car
+181,19,Damaged,-5,2021-02-13,INV-000181,Damaged for Premium Tea Set
+182,49,Damaged,-4,2023-12-30,INV-000182,Damaged for Elite Science Textbook
+183,2,Stock In,178,2021-05-09,INV-000183,Stock In for Elite Camera
+184,291,Adjustment,2,2022-03-24,INV-000184,Adjustment for Basic Jacket
+185,313,Return,10,2022-06-03,INV-000185,Return for Standard Water Bottle
+186,234,Stock Out,-43,2021-02-20,INV-000186,Stock Out for Premium Glue Set
+187,353,Damaged,-5,2021-12-28,INV-000187,Damaged for Elite Phone Mount
+188,56,Damaged,-4,2023-09-22,INV-000188,Damaged for Premium Paint Set
+189,61,Adjustment,-16,2022-08-08,INV-000189,Adjustment for BrandA Vitamins
+190,17,Damaged,-2,2021-10-31,INV-000190,Damaged for BrandA Cookbook
+191,454,Return,1,2023-11-19,INV-000191,Return for BrandD Protein Bar
+192,132,Stock In,163,2023-06-12,INV-000192,Stock In for Deluxe Action Figure
+193,193,Damaged,-1,2022-06-04,INV-000193,Damaged for BrandA Doll
+194,222,Stock Out,-17,2022-05-19,INV-000194,Stock Out for Elite Monitor
+195,348,Damaged,-3,2023-07-22,INV-000195,Damaged for Basic Protein Bar
+196,166,Return,7,2023-12-12,INV-000196,Return for BrandA Coffee Beans
+197,240,Stock Out,-38,2021-02-05,INV-000197,Stock Out for BrandC Perfume
+198,193,Return,9,2021-08-04,INV-000198,Return for BrandA Doll
+199,461,Stock Out,-28,2022-12-11,INV-000199,Stock Out for BrandB Cookbook
+200,412,Adjustment,-13,2022-09-20,INV-000200,Adjustment for Premium Protein Bar
+201,172,Damaged,-4,2021-01-26,INV-000201,Damaged for Premium Plant Pot
+202,359,Return,8,2023-03-02,INV-000202,Return for Standard Vitamins
+203,165,Damaged,-1,2020-07-04,INV-000203,Damaged for BrandB Paint Set
+204,397,Stock In,43,2023-09-03,INV-000204,Stock In for BrandD Dress
+205,102,Return,2,2023-05-27,INV-000205,Return for BrandC Air Freshener
+206,51,Stock In,183,2023-06-24,INV-000206,Stock In for Basic Face Cream
+207,223,Adjustment,-12,2020-01-19,INV-000207,Adjustment for BrandE Chocolate
+208,67,Stock Out,-35,2023-09-14,INV-000208,Stock Out for Deluxe Science Textbook
+209,341,Return,3,2020-07-25,INV-000209,Return for BrandC Tire Gauge
+210,445,Stock Out,-8,2022-01-18,INV-000210,Stock Out for Standard Tent
+211,235,Stock In,156,2020-03-25,INV-000211,Stock In for Elite Science Textbook
+212,408,Adjustment,2,2022-02-22,INV-000212,Adjustment for Deluxe Action Figure
+213,484,Stock Out,-20,2021-07-08,INV-000213,Stock Out for Standard Chocolate
+214,355,Return,3,2020-11-04,INV-000214,Return for Standard Self-Help Book
+215,339,Stock In,34,2022-03-11,INV-000215,Stock In for Standard Running Shoes
+216,102,Adjustment,7,2022-04-15,INV-000216,Adjustment for BrandC Air Freshener
+217,249,Stock Out,-41,2021-04-27,INV-000217,Stock Out for BrandD Coffee Beans
+218,119,Damaged,-2,2023-10-20,INV-000218,Damaged for BrandA Bedding Set
+219,459,Adjustment,-18,2022-12-04,INV-000219,Adjustment for Elite Coffee Maker
+220,426,Stock Out,-19,2021-01-21,INV-000220,Stock Out for BrandD Protein Bar
+221,22,Stock Out,-25,2020-09-19,INV-000221,Stock Out for Premium Phone Mount
+222,408,Adjustment,-5,2023-10-11,INV-000222,Adjustment for Deluxe Action Figure
+223,370,Damaged,-1,2021-07-20,INV-000223,Damaged for BrandD Camera
+224,338,Stock In,70,2020-04-19,INV-000224,Stock In for BrandA Bedding Set
+225,191,Return,6,2021-10-03,INV-000225,Return for BrandE Glue Set
+226,140,Damaged,-5,2021-08-04,INV-000226,Damaged for BrandC Glue Set
+227,31,Stock In,182,2021-07-14,INV-000227,Stock In for BrandC Puzzle
+228,267,Stock Out,-4,2020-10-16,INV-000228,Stock Out for BrandB Vacuum Cleaner
+229,19,Adjustment,13,2021-09-01,INV-000229,Adjustment for Premium Tea Set
+230,252,Stock Out,-49,2021-12-10,INV-000230,Stock Out for BrandA Plant Pot
+231,425,Stock In,134,2021-07-27,INV-000231,Stock In for BrandE Board Game
+232,295,Adjustment,-20,2023-05-14,INV-000232,Adjustment for Basic Vitamins
+233,283,Stock Out,-48,2021-05-20,INV-000233,Stock Out for BrandB Chocolate
+234,90,Stock Out,-33,2020-04-20,INV-000234,Stock Out for Deluxe Phone Mount
+235,375,Damaged,-5,2023-05-30,INV-000235,Damaged for BrandC Doll
+236,430,Return,1,2020-10-13,INV-000236,Return for Basic Boots
+237,266,Adjustment,-3,2020-01-09,INV-000237,Adjustment for Premium Coffee Maker
+238,354,Adjustment,-8,2020-06-25,INV-000238,Adjustment for BrandC Headphones
+239,143,Stock In,168,2020-01-25,INV-000239,Stock In for Elite Bedding Set
+240,358,Return,8,2020-07-16,INV-000240,Return for BrandA Toy Car
+241,67,Damaged,-2,2021-04-27,INV-000241,Damaged for Deluxe Science Textbook
+242,78,Adjustment,-5,2020-09-21,INV-000242,Adjustment for BrandD Smart Watch
+243,58,Return,8,2023-07-13,INV-000243,Return for BrandE Air Freshener
+244,175,Stock Out,-32,2022-06-12,INV-000244,Stock Out for BrandA Headphones
+245,230,Adjustment,1,2021-06-10,INV-000245,Adjustment for BrandB Paint Set
+246,288,Return,7,2020-05-12,INV-000246,Return for BrandE Headphones
+247,358,Return,3,2022-06-27,INV-000247,Return for BrandA Toy Car
+248,302,Adjustment,10,2021-04-06,INV-000248,Adjustment for Elite Water Bottle
+249,72,Adjustment,0,2021-09-26,INV-000249,Adjustment for Basic Coffee Beans
+250,53,Damaged,-1,2021-08-13,INV-000250,Damaged for Premium Coffee Beans
+251,277,Return,2,2021-01-03,INV-000251,Return for Elite Camera
+252,320,Return,7,2022-05-26,INV-000252,Return for Elite Air Freshener
+253,38,Stock In,96,2023-10-31,INV-000253,Stock In for Premium Coffee Beans
+254,463,Stock Out,-38,2021-03-20,INV-000254,Stock Out for Deluxe Science Textbook
+255,362,Damaged,-2,2023-05-28,INV-000255,Damaged for Standard Glue Set
+256,464,Adjustment,-9,2022-08-05,INV-000256,Adjustment for BrandC Tire Gauge
+257,195,Stock In,45,2020-05-21,INV-000257,Stock In for Elite Bedding Set
+258,397,Adjustment,-17,2023-08-07,INV-000258,Adjustment for BrandD Dress
+259,88,Stock In,63,2021-06-05,INV-000259,Stock In for Elite Protein Bar
+260,74,Stock Out,-41,2021-05-26,INV-000260,Stock Out for Basic Yoga Mat
+261,264,Damaged,-1,2022-06-13,INV-000261,Damaged for BrandA Plant Pot
+262,263,Stock Out,-31,2023-06-21,INV-000262,Stock Out for Premium Speaker
+263,324,Damaged,-5,2023-08-11,INV-000263,Damaged for BrandB Makeup Kit
+264,442,Adjustment,12,2021-01-05,INV-000264,Adjustment for Elite Board Game
+265,469,Adjustment,8,2022-08-27,INV-000265,Adjustment for BrandE Vitamins
+266,139,Stock Out,-14,2023-12-14,INV-000266,Stock Out for BrandB Coffee Beans
+267,407,Damaged,-1,2020-09-26,INV-000267,Damaged for Deluxe Backpack
+268,122,Damaged,-5,2020-03-29,INV-000268,Damaged for Deluxe Water Bottle
+269,10,Stock Out,-29,2020-08-17,INV-000269,Stock Out for Deluxe Cookbook
+270,208,Damaged,-1,2020-10-30,INV-000270,Damaged for Deluxe Water Bottle
+271,341,Return,6,2023-05-12,INV-000271,Return for BrandC Tire Gauge
+272,304,Stock Out,-37,2023-11-28,INV-000272,Stock Out for BrandE Smart Watch
+273,75,Adjustment,0,2022-08-04,INV-000273,Adjustment for BrandB Bedding Set
+274,412,Stock In,83,2021-01-05,INV-000274,Stock In for Premium Protein Bar
+275,270,Stock In,199,2020-07-02,INV-000275,Stock In for BrandD Science Textbook
+276,471,Return,3,2020-12-29,INV-000276,Return for BrandD Car Mat
+277,171,Stock In,190,2022-03-12,INV-000277,Stock In for BrandC Jacket
+278,10,Adjustment,18,2020-06-30,INV-000278,Adjustment for Deluxe Cookbook
+279,492,Stock In,10,2021-07-19,INV-000279,Stock In for Elite Tablet
+280,375,Adjustment,-8,2022-03-17,INV-000280,Adjustment for BrandC Doll
+281,428,Adjustment,-7,2022-03-14,INV-000281,Adjustment for BrandB Water Bottle
+282,367,Adjustment,-2,2021-05-29,INV-000282,Adjustment for BrandD Air Freshener
+283,145,Stock Out,-11,2023-02-27,INV-000283,Stock Out for BrandE Sneakers
+284,425,Return,10,2020-07-09,INV-000284,Return for BrandE Board Game
+285,6,Adjustment,-11,2020-11-16,INV-000285,Adjustment for BrandD Tea Set
+286,39,Stock In,171,2020-04-25,INV-000286,Stock In for Deluxe Yoga Mat
+287,280,Return,3,2020-12-04,INV-000287,Return for Premium Yoga Mat
+288,120,Return,7,2022-10-21,INV-000288,Return for Standard Sketchbook
+289,214,Stock Out,-21,2020-11-17,INV-000289,Stock Out for Premium Paint Set
+290,69,Return,9,2020-04-06,INV-000290,Return for BrandE Tent
+291,250,Damaged,-4,2023-01-21,INV-000291,Damaged for Deluxe Science Textbook
+292,302,Adjustment,10,2020-08-05,INV-000292,Adjustment for Elite Water Bottle
+293,139,Stock In,164,2021-03-23,INV-000293,Stock In for BrandB Coffee Beans
+294,323,Stock Out,-35,2022-02-01,INV-000294,Stock Out for Basic Speaker
+295,328,Stock Out,-3,2020-01-30,INV-000295,Stock Out for Elite Glue Set
+296,309,Stock In,160,2020-03-29,INV-000296,Stock In for Elite Hat
+297,107,Stock In,180,2022-05-16,INV-000297,Stock In for Standard Sketchbook
+298,261,Stock Out,-41,2020-10-14,INV-000298,Stock Out for BrandA Vitamins
+299,63,Adjustment,12,2022-05-18,INV-000299,Adjustment for BrandD Shampoo
+300,221,Return,8,2021-11-08,INV-000300,Return for Basic Yoga Mat
+301,229,Adjustment,5,2022-01-27,INV-000301,Adjustment for BrandA Air Freshener
+302,392,Damaged,-4,2020-09-03,INV-000302,Damaged for BrandB Tea Set
+303,288,Return,3,2023-02-06,INV-000303,Return for BrandE Headphones
+304,18,Adjustment,9,2023-09-01,INV-000304,Adjustment for Standard Jeans
+305,243,Stock In,71,2021-08-15,INV-000305,Stock In for BrandE Shampoo
+306,212,Adjustment,6,2023-07-30,INV-000306,Adjustment for BrandC Self-Help Book
+307,417,Stock Out,-15,2021-01-11,INV-000307,Stock Out for BrandD Paint Set
+308,87,Adjustment,4,2021-12-25,INV-000308,Adjustment for BrandE Sweater
+309,318,Return,9,2021-08-06,INV-000309,Return for BrandC Shampoo
+310,255,Stock In,95,2021-08-30,INV-000310,Stock In for Standard Boots
+311,266,Return,4,2021-11-12,INV-000311,Return for Premium Coffee Maker
+312,301,Stock In,129,2021-10-02,INV-000312,Stock In for Deluxe Tablet
+313,322,Return,4,2021-10-04,INV-000313,Return for Deluxe Jeans
+314,314,Stock In,141,2022-01-20,INV-000314,Stock In for Basic Vacuum Cleaner
+315,8,Stock In,196,2022-10-20,INV-000315,Stock In for BrandE Cookbook
+316,261,Return,10,2023-10-13,INV-000316,Return for BrandA Vitamins
+317,59,Return,6,2023-12-12,INV-000317,Return for Elite Plant Pot
+318,113,Damaged,-3,2023-04-02,INV-000318,Damaged for BrandD Coffee Beans
+319,112,Return,6,2022-04-23,INV-000319,Return for BrandE Cookbook
+320,339,Stock In,20,2023-08-04,INV-000320,Stock In for Standard Running Shoes
+321,215,Stock Out,-46,2021-03-24,INV-000321,Stock Out for Basic Fiction Novel
+322,406,Return,6,2020-11-10,INV-000322,Return for Deluxe Craft Paper
+323,202,Stock Out,-37,2022-03-20,INV-000323,Stock Out for BrandB Chocolate
+324,289,Adjustment,13,2021-06-08,INV-000324,Adjustment for Elite Laptop
+325,18,Stock Out,-6,2020-01-18,INV-000325,Stock Out for Standard Jeans
+326,24,Damaged,-2,2021-01-11,INV-000326,Damaged for BrandC Puzzle
+327,271,Stock Out,-21,2020-07-08,INV-000327,Stock Out for Standard Bicycle
+328,175,Adjustment,1,2021-12-24,INV-000328,Adjustment for BrandA Headphones
+329,328,Return,10,2023-07-22,INV-000329,Return for Elite Glue Set
+330,107,Adjustment,-8,2022-07-17,INV-000330,Adjustment for Standard Sketchbook
+331,178,Stock Out,-15,2022-09-19,INV-000331,Stock Out for Standard Coffee Maker
+332,263,Return,7,2020-04-02,INV-000332,Return for Premium Speaker
+333,171,Adjustment,-16,2021-08-06,INV-000333,Adjustment for BrandC Jacket
+334,41,Stock Out,-28,2021-09-20,INV-000334,Stock Out for BrandE Garden Hose
+335,406,Stock Out,-4,2021-01-13,INV-000335,Stock Out for Deluxe Craft Paper
+336,245,Damaged,-4,2020-04-04,INV-000336,Damaged for Premium Car Mat
+337,120,Damaged,-1,2021-03-27,INV-000337,Damaged for Standard Sketchbook
+338,192,Return,3,2021-01-01,INV-000338,Return for Premium Sketchbook
+339,482,Damaged,-5,2020-10-19,INV-000339,Damaged for Standard Sketchbook
+340,488,Stock In,14,2023-06-23,INV-000340,Stock In for BrandB Air Freshener
+341,402,Stock Out,-24,2023-07-31,INV-000341,Stock Out for BrandA Toy Car
+342,111,Stock Out,-20,2023-10-06,INV-000342,Stock Out for Standard Perfume
+343,10,Stock Out,-39,2020-11-08,INV-000343,Stock Out for Deluxe Cookbook
+344,232,Stock Out,-39,2023-07-30,INV-000344,Stock Out for BrandE Puzzle
+345,180,Adjustment,-18,2020-06-27,INV-000345,Adjustment for BrandE Lamp
+346,107,Adjustment,16,2022-03-18,INV-000346,Adjustment for Standard Sketchbook
+347,314,Stock Out,-36,2021-06-17,INV-000347,Stock Out for Basic Vacuum Cleaner
+348,63,Stock In,127,2022-06-04,INV-000348,Stock In for BrandD Shampoo
+349,245,Damaged,-3,2021-02-09,INV-000349,Damaged for Premium Car Mat
+350,204,Damaged,-1,2023-01-22,INV-000350,Damaged for Deluxe Cookbook
+351,124,Return,9,2021-03-11,INV-000351,Return for Basic Sweater
+352,330,Adjustment,11,2022-04-05,INV-000352,Adjustment for Basic Doll
+353,133,Return,10,2020-02-19,INV-000353,Return for BrandD Self-Help Book
+354,460,Stock In,122,2022-11-01,INV-000354,Stock In for BrandB Paint Set
+355,60,Stock Out,-20,2021-09-13,INV-000355,Stock Out for Standard Smartphone
+356,73,Return,7,2022-03-14,INV-000356,Return for Deluxe Vacuum Cleaner
+357,479,Return,10,2021-09-24,INV-000357,Return for Elite Car Mat
+358,392,Damaged,-2,2022-06-02,INV-000358,Damaged for BrandB Tea Set
+359,179,Stock In,184,2023-03-03,INV-000359,Stock In for Premium Running Shoes
+360,451,Adjustment,-7,2022-11-26,INV-000360,Adjustment for BrandA Biography
+361,191,Return,9,2020-11-21,INV-000361,Return for BrandE Glue Set
+362,114,Adjustment,-19,2022-12-20,INV-000362,Adjustment for BrandB Bedding Set
+363,251,Adjustment,1,2023-04-01,INV-000363,Adjustment for BrandA Dress
+364,464,Stock Out,-22,2023-07-20,INV-000364,Stock Out for BrandC Tire Gauge
+365,294,Return,3,2023-03-15,INV-000365,Return for BrandA Camera
+366,234,Return,3,2022-02-11,INV-000366,Return for Premium Glue Set
+367,11,Return,10,2020-10-26,INV-000367,Return for BrandB Perfume
+368,458,Stock Out,-50,2020-10-19,INV-000368,Stock Out for Basic Boots
+369,88,Adjustment,8,2020-11-21,INV-000369,Adjustment for Elite Protein Bar
+370,248,Return,4,2023-07-18,INV-000370,Return for Deluxe Bicycle
+371,153,Adjustment,6,2023-01-11,INV-000371,Adjustment for BrandB Tire Gauge
+372,416,Damaged,-2,2022-08-27,INV-000372,Damaged for Basic Shampoo
+373,114,Stock In,196,2023-10-28,INV-000373,Stock In for BrandB Bedding Set
+374,474,Adjustment,9,2020-12-28,INV-000374,Adjustment for BrandD Puzzle
+375,407,Stock Out,-50,2023-10-08,INV-000375,Stock Out for Deluxe Backpack
+376,322,Stock Out,-17,2023-07-30,INV-000376,Stock Out for Deluxe Jeans
+377,129,Adjustment,7,2022-05-02,INV-000377,Adjustment for BrandA Chocolate
+378,194,Return,2,2020-04-04,INV-000378,Return for Standard Protein Bar
+379,304,Adjustment,-14,2021-09-02,INV-000379,Adjustment for BrandE Smart Watch
+380,239,Damaged,-4,2020-06-27,INV-000380,Damaged for Elite Protein Bar
+381,254,Damaged,-1,2022-02-14,INV-000381,Damaged for Standard Chocolate
+382,200,Damaged,-4,2020-12-11,INV-000382,Damaged for Basic Car Mat
+383,140,Damaged,-5,2022-03-01,INV-000383,Damaged for BrandC Glue Set
+384,245,Damaged,-5,2022-08-22,INV-000384,Damaged for Premium Car Mat
+385,269,Damaged,-2,2021-07-10,INV-000385,Damaged for BrandA Craft Paper
+386,103,Adjustment,18,2021-06-05,INV-000386,Adjustment for BrandB Tent
+387,291,Stock In,72,2023-10-25,INV-000387,Stock In for Basic Jacket
+388,399,Damaged,-3,2020-06-19,INV-000388,Damaged for BrandB Action Figure
+389,298,Damaged,-4,2023-06-27,INV-000389,Damaged for Deluxe Plant Pot
+390,377,Adjustment,6,2020-06-26,INV-000390,Adjustment for BrandA Glue Set
+391,469,Stock Out,-43,2021-09-05,INV-000391,Stock Out for BrandE Vitamins
+392,152,Adjustment,-17,2023-02-23,INV-000392,Adjustment for Elite Paint Set
+393,386,Damaged,-2,2023-11-25,INV-000393,Damaged for BrandB Hat
+394,295,Stock Out,-7,2023-01-20,INV-000394,Stock Out for Basic Vitamins
+395,492,Stock Out,-35,2020-02-26,INV-000395,Stock Out for Elite Tablet
+396,314,Stock In,111,2023-04-01,INV-000396,Stock In for Basic Vacuum Cleaner
+397,3,Stock Out,-18,2022-08-18,INV-000397,Stock Out for Deluxe Glue Set
+398,494,Return,10,2020-05-19,INV-000398,Return for BrandD Face Cream
+399,78,Stock Out,-42,2021-02-20,INV-000399,Stock Out for BrandD Smart Watch
+400,365,Return,8,2023-05-18,INV-000400,Return for BrandD Cookbook
+401,314,Stock Out,-41,2023-06-03,INV-000401,Stock Out for Basic Vacuum Cleaner
+402,330,Damaged,-1,2020-07-05,INV-000402,Damaged for Basic Doll
+403,427,Stock Out,-11,2020-02-26,INV-000403,Stock Out for BrandC Boots
+404,278,Stock In,108,2021-03-16,INV-000404,Stock In for BrandD Coffee Beans
+405,473,Stock In,138,2022-01-21,INV-000405,Stock In for BrandB T-Shirt
+406,173,Stock Out,-2,2020-01-13,INV-000406,Stock Out for BrandE Water Bottle
+407,201,Stock Out,-16,2023-04-02,INV-000407,Stock Out for BrandB Shampoo
+408,86,Stock In,103,2020-11-07,INV-000408,Stock In for BrandE Makeup Kit
+409,341,Stock Out,-5,2021-02-03,INV-000409,Stock Out for BrandC Tire Gauge
+410,263,Stock Out,-26,2023-07-28,INV-000410,Stock Out for Premium Speaker
+411,480,Stock Out,-44,2020-05-16,INV-000411,Stock Out for Basic Phone Mount
+412,493,Adjustment,-20,2023-04-30,INV-000412,Adjustment for BrandC Perfume
+413,231,Damaged,-2,2020-06-11,INV-000413,Damaged for Deluxe Laptop
+414,420,Stock Out,-32,2020-04-03,INV-000414,Stock Out for Premium Jacket
+415,13,Stock Out,-16,2020-09-07,INV-000415,Stock Out for BrandD Backpack
+416,413,Damaged,-5,2022-05-23,INV-000416,Damaged for Elite Craft Paper
+417,114,Return,3,2020-03-12,INV-000417,Return for BrandB Bedding Set
+418,76,Stock In,56,2023-06-28,INV-000418,Stock In for BrandB Tea Set
+419,357,Adjustment,18,2020-02-07,INV-000419,Adjustment for BrandE Lamp
+420,435,Stock Out,-7,2023-09-20,INV-000420,Stock Out for Deluxe Chocolate
+421,115,Return,8,2023-07-25,INV-000421,Return for Elite Craft Paper
+422,10,Adjustment,5,2023-03-24,INV-000422,Adjustment for Deluxe Cookbook
+423,327,Stock In,11,2023-12-02,INV-000423,Stock In for BrandA Garden Hose
+424,308,Stock In,186,2020-08-03,INV-000424,Stock In for Standard Hat
+425,334,Damaged,-1,2022-08-06,INV-000425,Damaged for BrandA Chocolate
+426,422,Return,6,2021-03-11,INV-000426,Return for Elite Makeup Kit
+427,491,Stock Out,-19,2021-09-24,INV-000427,Stock Out for Basic Board Game
+428,170,Damaged,-2,2021-06-10,INV-000428,Damaged for BrandA Tea Set
+429,28,Stock Out,-33,2022-09-12,INV-000429,Stock Out for Premium Puzzle
+430,447,Stock In,105,2020-05-28,INV-000430,Stock In for Basic Fiction Novel
+431,468,Adjustment,-2,2022-10-06,INV-000431,Adjustment for Deluxe Tablet
+432,93,Adjustment,7,2023-06-21,INV-000432,Adjustment for Deluxe Jacket
+433,261,Stock In,39,2022-08-10,INV-000433,Stock In for BrandA Vitamins
+434,75,Stock In,193,2023-11-14,INV-000434,Stock In for BrandB Bedding Set
+435,217,Damaged,-4,2020-01-23,INV-000435,Damaged for Elite Yoga Mat
+436,105,Stock Out,-31,2020-10-15,INV-000436,Stock Out for BrandB Tent
+437,295,Damaged,-2,2020-03-08,INV-000437,Damaged for Basic Vitamins
+438,181,Adjustment,-17,2020-04-05,INV-000438,Adjustment for Elite Glue Set
+439,270,Damaged,-2,2023-09-07,INV-000439,Damaged for BrandD Science Textbook
+440,215,Damaged,-1,2023-01-21,INV-000440,Damaged for Basic Fiction Novel
+441,326,Stock Out,-19,2023-07-08,INV-000441,Stock Out for Premium Perfume
+442,63,Damaged,-1,2021-01-01,INV-000442,Damaged for BrandD Shampoo
+443,293,Stock Out,-11,2020-08-19,INV-000443,Stock Out for BrandA Dress
+444,146,Return,1,2020-02-21,INV-000444,Return for BrandB Toy Car
+445,205,Adjustment,18,2023-12-25,INV-000445,Adjustment for Basic Protein Bar
+446,13,Stock Out,-12,2021-06-27,INV-000446,Stock Out for BrandD Backpack
+447,357,Stock In,149,2021-04-23,INV-000447,Stock In for BrandE Lamp
+448,345,Stock Out,-44,2021-12-18,INV-000448,Stock Out for Deluxe Tea Set
+449,389,Stock Out,-46,2022-07-12,INV-000449,Stock Out for Premium Dress
+450,304,Return,3,2022-01-09,INV-000450,Return for BrandE Smart Watch
+451,437,Stock Out,-42,2020-03-28,INV-000451,Stock Out for Deluxe Tea Set
+452,111,Stock Out,-6,2021-03-27,INV-000452,Stock Out for Standard Perfume
+453,189,Stock In,35,2022-06-13,INV-000453,Stock In for BrandB Fiction Novel
+454,9,Return,10,2021-12-10,INV-000454,Return for BrandE Lamp
+455,209,Adjustment,-10,2022-12-19,INV-000455,Adjustment for BrandE Sketchbook
+456,151,Stock Out,-11,2022-03-02,INV-000456,Stock Out for Deluxe Doll
+457,186,Return,1,2020-07-26,INV-000457,Return for BrandD Cookbook
+458,227,Stock In,112,2022-07-02,INV-000458,Stock In for BrandE Tablet
+459,219,Damaged,-1,2020-08-19,INV-000459,Damaged for Elite Science Textbook
+460,323,Return,8,2023-01-04,INV-000460,Return for Basic Speaker
+461,78,Return,3,2023-05-09,INV-000461,Return for BrandD Smart Watch
+462,158,Stock In,55,2021-10-17,INV-000462,Stock In for Premium Bedding Set
+463,347,Stock In,95,2021-01-21,INV-000463,Stock In for Premium Phone Mount
+464,113,Damaged,-4,2021-06-09,INV-000464,Damaged for BrandD Coffee Beans
+465,177,Stock Out,-28,2022-06-25,INV-000465,Stock Out for Basic Tire Gauge
+466,77,Stock Out,-50,2020-02-02,INV-000466,Stock Out for BrandA Glue Set
+467,384,Stock Out,-11,2020-03-24,INV-000467,Stock Out for BrandC Tea Set
+468,318,Damaged,-5,2021-09-04,INV-000468,Damaged for BrandC Shampoo
+469,32,Stock In,133,2023-11-05,INV-000469,Stock In for Standard Tea Set
+470,217,Adjustment,-7,2023-08-05,INV-000470,Adjustment for Elite Yoga Mat
+471,229,Stock In,82,2023-10-11,INV-000471,Stock In for BrandA Air Freshener
+472,371,Stock In,102,2021-02-08,INV-000472,Stock In for BrandA Running Shoes
+473,463,Stock In,165,2022-12-04,INV-000473,Stock In for Deluxe Science Textbook
+474,325,Adjustment,-16,2020-05-04,INV-000474,Adjustment for Premium Coffee Beans
+475,186,Adjustment,-19,2022-07-05,INV-000475,Adjustment for BrandD Cookbook
+476,298,Adjustment,0,2020-01-06,INV-000476,Adjustment for Deluxe Plant Pot
+477,386,Damaged,-3,2022-10-24,INV-000477,Damaged for BrandB Hat
+478,478,Adjustment,-10,2023-01-26,INV-000478,Adjustment for BrandA Air Freshener
+479,291,Adjustment,6,2022-09-29,INV-000479,Adjustment for Basic Jacket
+480,343,Return,1,2021-04-21,INV-000480,Return for Elite Hat
+481,448,Return,9,2021-05-28,INV-000481,Return for BrandD Protein Bar
+482,325,Return,8,2023-06-03,INV-000482,Return for Premium Coffee Beans
+483,54,Return,1,2020-01-15,INV-000483,Return for Basic Vacuum Cleaner
+484,346,Damaged,-2,2020-02-18,INV-000484,Damaged for Standard Puzzle
+485,361,Return,7,2021-07-12,INV-000485,Return for Basic Board Game
+486,496,Adjustment,-18,2021-11-26,INV-000486,Adjustment for BrandC Chocolate
+487,169,Damaged,-2,2021-10-21,INV-000487,Damaged for BrandB Yoga Mat
+488,9,Adjustment,-20,2020-06-21,INV-000488,Adjustment for BrandE Lamp
+489,94,Return,3,2022-06-23,INV-000489,Return for Premium Tire Gauge
+490,483,Stock Out,-30,2023-08-06,INV-000490,Stock Out for BrandE Phone Mount
+491,322,Damaged,-4,2021-05-11,INV-000491,Damaged for Deluxe Jeans
+492,326,Stock Out,-36,2021-01-18,INV-000492,Stock Out for Premium Perfume
+493,363,Damaged,-1,2020-08-29,INV-000493,Damaged for Basic Water Bottle
+494,450,Damaged,-2,2020-09-24,INV-000494,Damaged for Basic Glue Set
+495,419,Stock In,102,2020-08-09,INV-000495,Stock In for Standard Camera
+496,431,Stock In,50,2020-05-09,INV-000496,Stock In for Elite Smart Watch
+497,207,Stock Out,-17,2020-02-26,INV-000497,Stock Out for BrandC Puzzle
+498,495,Return,4,2022-02-24,INV-000498,Return for BrandE Makeup Kit
+499,64,Damaged,-1,2020-05-29,INV-000499,Damaged for BrandA Doll
+500,314,Damaged,-5,2020-03-21,INV-000500,Damaged for Basic Vacuum Cleaner
+501,4,Adjustment,-19,2021-01-01,INV-000501,Adjustment for Standard Hat
+502,19,Adjustment,-18,2022-04-01,INV-000502,Adjustment for Premium Tea Set
+503,111,Adjustment,-16,2020-05-15,INV-000503,Adjustment for Standard Perfume
+504,4,Return,5,2022-08-30,INV-000504,Return for Standard Hat
+505,282,Stock In,194,2020-06-30,INV-000505,Stock In for BrandB Plant Pot
+506,179,Return,1,2023-09-30,INV-000506,Return for Premium Running Shoes
+507,445,Return,5,2023-01-12,INV-000507,Return for Standard Tent
+508,170,Adjustment,8,2023-03-06,INV-000508,Adjustment for BrandA Tea Set
+509,315,Return,9,2023-02-12,INV-000509,Return for Deluxe Camera
+510,109,Return,4,2023-07-15,INV-000510,Return for BrandB Toy Car
+511,191,Stock In,51,2021-06-05,INV-000511,Stock In for BrandE Glue Set
+512,57,Stock In,124,2023-09-14,INV-000512,Stock In for BrandC Bicycle
+513,113,Damaged,-1,2021-09-22,INV-000513,Damaged for BrandD Coffee Beans
+514,56,Adjustment,14,2023-11-03,INV-000514,Adjustment for Premium Paint Set
+515,352,Stock In,73,2023-01-15,INV-000515,Stock In for BrandD Biography
+516,380,Damaged,-1,2023-03-28,INV-000516,Damaged for Standard Vitamins
+517,209,Stock In,41,2020-07-23,INV-000517,Stock In for BrandE Sketchbook
+518,369,Adjustment,1,2023-12-01,INV-000518,Adjustment for Deluxe Doll
+519,427,Return,8,2023-11-24,INV-000519,Return for BrandC Boots
+520,126,Return,8,2022-06-18,INV-000520,Return for BrandB Makeup Kit
+521,251,Return,2,2023-04-11,INV-000521,Return for BrandA Dress
+522,316,Adjustment,-12,2021-07-02,INV-000522,Adjustment for Deluxe Self-Help Book
+523,252,Damaged,-4,2020-02-29,INV-000523,Damaged for BrandA Plant Pot
+524,323,Stock In,133,2020-03-20,INV-000524,Stock In for Basic Speaker
+525,85,Damaged,-2,2020-07-12,INV-000525,Damaged for BrandC Speaker
+526,284,Return,7,2021-09-19,INV-000526,Return for BrandB Tea Set
+527,269,Adjustment,-16,2022-09-16,INV-000527,Adjustment for BrandA Craft Paper
+528,90,Return,1,2020-09-21,INV-000528,Return for Deluxe Phone Mount
+529,177,Stock Out,-43,2021-02-25,INV-000529,Stock Out for Basic Tire Gauge
+530,387,Damaged,-1,2021-05-30,INV-000530,Damaged for Standard Toy Car
+531,268,Adjustment,-6,2021-09-17,INV-000531,Adjustment for BrandB Plant Pot
+532,132,Return,9,2020-11-28,INV-000532,Return for Deluxe Action Figure
+533,390,Return,8,2023-09-07,INV-000533,Return for BrandC Cookbook
+534,56,Stock Out,-21,2021-01-23,INV-000534,Stock Out for Premium Paint Set
+535,111,Stock Out,-4,2023-06-18,INV-000535,Stock Out for Standard Perfume
+536,181,Adjustment,20,2023-04-19,INV-000536,Adjustment for Elite Glue Set
+537,160,Stock Out,-35,2021-07-02,INV-000537,Stock Out for BrandD Paint Set
+538,213,Damaged,-5,2023-02-11,INV-000538,Damaged for BrandB Craft Paper
+539,429,Return,4,2022-01-08,INV-000539,Return for BrandA Dress
+540,230,Damaged,-4,2020-12-23,INV-000540,Damaged for BrandB Paint Set
+541,301,Return,3,2023-06-22,INV-000541,Return for Deluxe Tablet
+542,28,Damaged,-2,2021-03-16,INV-000542,Damaged for Premium Puzzle
+543,444,Adjustment,10,2023-11-02,INV-000543,Adjustment for BrandA Lamp
+544,275,Stock In,51,2023-12-04,INV-000544,Stock In for BrandA Sneakers
+545,296,Adjustment,-19,2023-06-08,INV-000545,Adjustment for Elite Coffee Beans
+546,45,Stock Out,-37,2022-10-27,INV-000546,Stock Out for Elite Chocolate
+547,87,Return,7,2021-02-04,INV-000547,Return for BrandE Sweater
+548,369,Damaged,-5,2021-09-23,INV-000548,Damaged for Deluxe Doll
+549,195,Return,5,2022-12-29,INV-000549,Return for Elite Bedding Set
+550,104,Adjustment,-3,2020-10-04,INV-000550,Adjustment for BrandB Air Freshener
+551,309,Return,4,2023-04-14,INV-000551,Return for Elite Hat
+552,210,Damaged,-2,2021-10-15,INV-000552,Damaged for BrandD Jeans
+553,317,Return,6,2020-09-25,INV-000553,Return for Deluxe Cookbook
+554,133,Stock Out,-39,2020-06-07,INV-000554,Stock Out for BrandD Self-Help Book
+555,193,Damaged,-5,2022-05-02,INV-000555,Damaged for BrandA Doll
+556,324,Return,7,2020-12-06,INV-000556,Return for BrandB Makeup Kit
+557,199,Stock Out,-31,2021-05-24,INV-000557,Stock Out for BrandC Self-Help Book
+558,75,Adjustment,-6,2021-04-25,INV-000558,Adjustment for BrandB Bedding Set
+559,401,Adjustment,-20,2022-03-10,INV-000559,Adjustment for BrandB Coffee Maker
+560,445,Stock Out,-4,2020-08-01,INV-000560,Stock Out for Standard Tent
+561,371,Return,7,2021-02-02,INV-000561,Return for BrandA Running Shoes
+562,46,Stock Out,-18,2020-05-01,INV-000562,Stock Out for BrandD Sketchbook
+563,112,Stock In,77,2023-11-16,INV-000563,Stock In for BrandE Cookbook
+564,111,Stock Out,-6,2022-02-05,INV-000564,Stock Out for Standard Perfume
+565,248,Return,4,2021-06-07,INV-000565,Return for Deluxe Bicycle
+566,237,Adjustment,-9,2022-05-01,INV-000566,Adjustment for Elite Paint Set
+567,328,Stock Out,-26,2020-12-16,INV-000567,Stock Out for Elite Glue Set
+568,342,Damaged,-5,2022-05-09,INV-000568,Damaged for BrandE Vitamins
+569,192,Stock Out,-14,2021-02-03,INV-000569,Stock Out for Premium Sketchbook
+570,40,Adjustment,9,2020-03-06,INV-000570,Adjustment for Deluxe Coffee Beans
+571,195,Adjustment,-3,2021-06-29,INV-000571,Adjustment for Elite Bedding Set
+572,70,Adjustment,3,2020-08-28,INV-000572,Adjustment for Premium Jeans
+573,247,Adjustment,-7,2021-07-08,INV-000573,Adjustment for BrandD Self-Help Book
+574,458,Adjustment,-11,2020-06-21,INV-000574,Adjustment for Basic Boots
+575,459,Stock In,36,2022-08-14,INV-000575,Stock In for Elite Coffee Maker
+576,139,Adjustment,-4,2023-03-25,INV-000576,Adjustment for BrandB Coffee Beans
+577,330,Adjustment,-2,2023-03-08,INV-000577,Adjustment for Basic Doll
+578,307,Adjustment,10,2023-08-06,INV-000578,Adjustment for BrandD Glue Set
+579,190,Adjustment,-10,2020-06-14,INV-000579,Adjustment for Basic Fiction Novel
+580,187,Damaged,-5,2021-09-04,INV-000580,Damaged for Standard Air Freshener
+581,260,Stock Out,-41,2021-09-06,INV-000581,Stock Out for Deluxe Glue Set
+582,477,Return,4,2022-11-01,INV-000582,Return for BrandC Jeans
+583,62,Stock In,103,2020-06-01,INV-000583,Stock In for Standard Chocolate
+584,120,Stock Out,-40,2020-08-15,INV-000584,Stock Out for Standard Sketchbook
+585,364,Stock In,114,2021-07-13,INV-000585,Stock In for BrandD Hat
+586,189,Return,10,2020-12-21,INV-000586,Return for BrandB Fiction Novel
+587,258,Adjustment,4,2021-08-13,INV-000587,Adjustment for BrandE Doll
+588,227,Stock Out,-38,2023-05-06,INV-000588,Stock Out for BrandE Tablet
+589,155,Damaged,-4,2020-12-21,INV-000589,Damaged for Elite Chocolate
+590,431,Adjustment,8,2021-02-22,INV-000590,Adjustment for Elite Smart Watch
+591,279,Adjustment,-7,2023-08-27,INV-000591,Adjustment for BrandA Self-Help Book
+592,152,Damaged,-5,2022-12-17,INV-000592,Damaged for Elite Paint Set
+593,221,Return,6,2023-08-14,INV-000593,Return for Basic Yoga Mat
+594,6,Damaged,-1,2022-01-07,INV-000594,Damaged for BrandD Tea Set
+595,182,Stock Out,-1,2020-05-05,INV-000595,Stock Out for Standard Tea Set
+596,256,Return,6,2020-09-01,INV-000596,Return for BrandA Dress
+597,291,Adjustment,3,2023-08-26,INV-000597,Adjustment for Basic Jacket
+598,394,Stock In,145,2021-03-27,INV-000598,Stock In for BrandC Sneakers
+599,190,Adjustment,10,2023-03-10,INV-000599,Adjustment for Basic Fiction Novel
+600,299,Stock Out,-44,2021-04-25,INV-000600,Stock Out for Premium Craft Paper
+601,105,Stock In,96,2022-08-11,INV-000601,Stock In for BrandB Tent
+602,110,Damaged,-2,2021-06-16,INV-000602,Damaged for Premium Tire Gauge
+603,321,Adjustment,-8,2020-06-05,INV-000603,Adjustment for BrandA Coffee Beans
+604,106,Stock In,195,2022-10-27,INV-000604,Stock In for BrandB Hat
+605,41,Stock In,45,2021-05-29,INV-000605,Stock In for BrandE Garden Hose
+606,449,Return,5,2021-05-03,INV-000606,Return for Deluxe Protein Bar
+607,127,Return,9,2023-08-03,INV-000607,Return for BrandC Hat
+608,419,Return,3,2021-09-23,INV-000608,Return for Standard Camera
+609,141,Stock Out,-48,2020-04-07,INV-000609,Stock Out for BrandB Running Shoes
+610,169,Stock In,78,2023-07-18,INV-000610,Stock In for BrandB Yoga Mat
+611,289,Return,1,2022-05-21,INV-000611,Return for Elite Laptop
+612,313,Return,10,2022-03-08,INV-000612,Return for Standard Water Bottle
+613,26,Stock In,195,2020-02-24,INV-000613,Stock In for Elite Water Bottle
+614,385,Return,10,2023-07-07,INV-000614,Return for Premium Protein Bar
+615,76,Return,4,2022-07-02,INV-000615,Return for BrandB Tea Set
+616,99,Adjustment,18,2020-07-28,INV-000616,Adjustment for BrandB Protein Bar
+617,310,Stock Out,-5,2022-11-28,INV-000617,Stock Out for Standard Chocolate
+618,460,Return,10,2023-12-04,INV-000618,Return for BrandB Paint Set
+619,118,Stock In,108,2021-11-23,INV-000619,Stock In for BrandA Speaker
+620,82,Stock In,118,2020-06-07,INV-000620,Stock In for BrandC Hat
+621,495,Adjustment,8,2020-06-20,INV-000621,Adjustment for BrandE Makeup Kit
+622,319,Adjustment,17,2020-01-19,INV-000622,Adjustment for BrandB Smart Watch
+623,487,Stock In,37,2020-12-03,INV-000623,Stock In for BrandB Phone Mount
+624,26,Adjustment,-20,2020-10-11,INV-000624,Adjustment for Elite Water Bottle
+625,298,Stock Out,-6,2022-04-30,INV-000625,Stock Out for Deluxe Plant Pot
+626,331,Stock In,10,2021-06-04,INV-000626,Stock In for Basic Craft Paper
+627,327,Stock In,57,2022-09-11,INV-000627,Stock In for BrandA Garden Hose
+628,398,Stock Out,-36,2023-06-25,INV-000628,Stock Out for BrandB Water Bottle
+629,221,Damaged,-4,2022-11-13,INV-000629,Damaged for Basic Yoga Mat
+630,338,Stock Out,-41,2020-09-30,INV-000630,Stock Out for BrandA Bedding Set
+631,403,Stock In,54,2020-05-03,INV-000631,Stock In for Basic Bicycle
+632,402,Damaged,-4,2020-06-12,INV-000632,Damaged for BrandA Toy Car
+633,110,Adjustment,19,2023-01-27,INV-000633,Adjustment for Premium Tire Gauge
+634,309,Adjustment,-11,2022-01-31,INV-000634,Adjustment for Elite Hat
+635,496,Stock In,128,2023-06-20,INV-000635,Stock In for BrandC Chocolate
+636,493,Return,7,2023-06-19,INV-000636,Return for BrandC Perfume
+637,136,Damaged,-4,2022-10-31,INV-000637,Damaged for Deluxe Sketchbook
+638,181,Adjustment,-10,2020-03-07,INV-000638,Adjustment for Elite Glue Set
+639,464,Stock In,175,2020-05-18,INV-000639,Stock In for BrandC Tire Gauge
+640,445,Adjustment,-15,2021-07-23,INV-000640,Adjustment for Standard Tent
+641,318,Adjustment,-12,2021-06-11,INV-000641,Adjustment for BrandC Shampoo
+642,380,Return,1,2023-08-07,INV-000642,Return for Standard Vitamins
+643,254,Return,4,2022-09-27,INV-000643,Return for Standard Chocolate
+644,68,Stock Out,-16,2023-12-15,INV-000644,Stock Out for BrandB Boots
+645,202,Damaged,-4,2020-05-18,INV-000645,Damaged for BrandB Chocolate
+646,459,Adjustment,17,2022-01-24,INV-000646,Adjustment for Elite Coffee Maker
+647,227,Stock Out,-34,2023-12-14,INV-000647,Stock Out for BrandE Tablet
+648,121,Adjustment,18,2023-12-22,INV-000648,Adjustment for Standard Chocolate
+649,52,Damaged,-3,2022-07-24,INV-000649,Damaged for BrandC Smartphone
+650,457,Adjustment,10,2023-11-29,INV-000650,Adjustment for Deluxe Fiction Novel
+651,471,Return,4,2022-09-30,INV-000651,Return for BrandD Car Mat
+652,393,Damaged,-5,2020-12-15,INV-000652,Damaged for BrandE Action Figure
+653,72,Damaged,-2,2020-02-28,INV-000653,Damaged for Basic Coffee Beans
+654,484,Adjustment,0,2022-10-18,INV-000654,Adjustment for Standard Chocolate
+655,173,Return,10,2022-08-18,INV-000655,Return for BrandE Water Bottle
+656,294,Damaged,-5,2021-03-03,INV-000656,Damaged for BrandA Camera
+657,66,Return,8,2022-06-08,INV-000657,Return for Premium Plant Pot
+658,169,Stock In,130,2021-09-30,INV-000658,Stock In for BrandB Yoga Mat
+659,422,Stock In,20,2022-01-25,INV-000659,Stock In for Elite Makeup Kit
+660,372,Damaged,-2,2023-05-24,INV-000660,Damaged for BrandB Yoga Mat
+661,250,Adjustment,14,2020-07-30,INV-000661,Adjustment for Deluxe Science Textbook
+662,219,Adjustment,-20,2021-07-28,INV-000662,Adjustment for Elite Science Textbook
+663,250,Stock Out,-37,2020-04-24,INV-000663,Stock Out for Deluxe Science Textbook
+664,85,Stock Out,-22,2022-06-07,INV-000664,Stock Out for BrandC Speaker
+665,247,Stock In,44,2022-12-22,INV-000665,Stock In for BrandD Self-Help Book
+666,148,Adjustment,15,2023-07-19,INV-000666,Adjustment for Premium Tablet
+667,400,Return,10,2023-07-19,INV-000667,Return for Elite Car Mat
+668,398,Return,7,2020-01-31,INV-000668,Return for BrandB Water Bottle
+669,99,Damaged,-4,2021-03-09,INV-000669,Damaged for BrandB Protein Bar
+670,113,Adjustment,-1,2023-10-17,INV-000670,Adjustment for BrandD Coffee Beans
+671,124,Return,7,2020-02-05,INV-000671,Return for Basic Sweater
+672,430,Return,6,2020-06-16,INV-000672,Return for Basic Boots
+673,416,Stock Out,-6,2020-04-26,INV-000673,Stock Out for Basic Shampoo
+674,197,Stock In,138,2021-08-18,INV-000674,Stock In for Premium Jeans
+675,220,Stock Out,-25,2020-12-04,INV-000675,Stock Out for Deluxe Protein Bar
+676,149,Stock Out,-25,2021-09-28,INV-000676,Stock Out for BrandC Perfume
+677,197,Adjustment,-14,2022-12-14,INV-000677,Adjustment for Premium Jeans
+678,326,Stock In,43,2021-07-22,INV-000678,Stock In for Premium Perfume
+679,233,Adjustment,17,2021-08-23,INV-000679,Adjustment for Basic Tablet
+680,452,Stock In,138,2021-12-15,INV-000680,Stock In for Elite Shampoo
+681,329,Damaged,-2,2021-10-20,INV-000681,Damaged for BrandA Tea Set
+682,117,Return,6,2021-05-07,INV-000682,Return for BrandB Tent
+683,91,Adjustment,-10,2021-07-20,INV-000683,Adjustment for BrandC Boots
+684,75,Stock Out,-31,2022-07-17,INV-000684,Stock Out for BrandB Bedding Set
+685,18,Damaged,-3,2020-03-18,INV-000685,Damaged for Standard Jeans
+686,402,Return,7,2023-10-28,INV-000686,Return for BrandA Toy Car
+687,49,Adjustment,0,2022-07-28,INV-000687,Adjustment for Elite Science Textbook
+688,333,Stock Out,-32,2021-05-31,INV-000688,Stock Out for Elite Garden Hose
+689,387,Damaged,-3,2020-11-12,INV-000689,Damaged for Standard Toy Car
+690,203,Adjustment,-16,2020-12-15,INV-000690,Adjustment for Premium Laptop
+691,318,Stock Out,-22,2023-02-02,INV-000691,Stock Out for BrandC Shampoo
+692,16,Adjustment,6,2022-07-26,INV-000692,Adjustment for BrandD Board Game
+693,113,Damaged,-1,2020-06-17,INV-000693,Damaged for BrandD Coffee Beans
+694,17,Return,6,2020-12-13,INV-000694,Return for BrandA Cookbook
+695,204,Stock Out,-31,2023-04-21,INV-000695,Stock Out for Deluxe Cookbook
+696,311,Stock Out,-40,2021-07-14,INV-000696,Stock Out for Basic Laptop
+697,324,Damaged,-4,2021-11-02,INV-000697,Damaged for BrandB Makeup Kit
+698,472,Stock Out,-14,2023-07-02,INV-000698,Stock Out for BrandC Sweater
+699,11,Return,8,2021-06-05,INV-000699,Return for BrandB Perfume
+700,485,Damaged,-5,2023-06-16,INV-000700,Damaged for Elite Tea Set
+701,295,Stock In,46,2020-05-03,INV-000701,Stock In for Basic Vitamins
+702,367,Stock Out,-43,2022-11-24,INV-000702,Stock Out for BrandD Air Freshener
+703,290,Adjustment,-3,2020-03-18,INV-000703,Adjustment for Deluxe Vacuum Cleaner
+704,111,Return,1,2020-04-30,INV-000704,Return for Standard Perfume
+705,187,Damaged,-3,2020-07-02,INV-000705,Damaged for Standard Air Freshener
+706,189,Adjustment,16,2020-06-17,INV-000706,Adjustment for BrandB Fiction Novel
+707,128,Stock Out,-19,2020-10-20,INV-000707,Stock Out for BrandA Craft Paper
+708,296,Return,10,2021-10-17,INV-000708,Return for Elite Coffee Beans
+709,301,Return,6,2021-03-29,INV-000709,Return for Deluxe Tablet
+710,442,Damaged,-3,2020-05-21,INV-000710,Damaged for Elite Board Game
+711,307,Stock Out,-44,2023-05-30,INV-000711,Stock Out for BrandD Glue Set
+712,197,Return,7,2023-12-15,INV-000712,Return for Premium Jeans
+713,8,Stock Out,-22,2020-11-25,INV-000713,Stock Out for BrandE Cookbook
+714,471,Damaged,-3,2022-05-04,INV-000714,Damaged for BrandD Car Mat
+715,489,Stock In,89,2020-09-24,INV-000715,Stock In for Premium Face Cream
+716,80,Return,3,2020-02-14,INV-000716,Return for BrandC Face Cream
+717,271,Adjustment,-17,2022-11-12,INV-000717,Adjustment for Standard Bicycle
+718,148,Adjustment,-11,2020-02-15,INV-000718,Adjustment for Premium Tablet
+719,286,Return,4,2021-02-22,INV-000719,Return for Premium Tea Set
+720,125,Adjustment,6,2020-06-05,INV-000720,Adjustment for Premium Speaker
+721,154,Stock In,144,2023-05-11,INV-000721,Stock In for Premium Shampoo
+722,384,Return,9,2022-10-12,INV-000722,Return for BrandC Tea Set
+723,343,Stock Out,-29,2020-10-21,INV-000723,Stock Out for Elite Hat
+724,441,Damaged,-2,2023-08-25,INV-000724,Damaged for BrandC Sneakers
+725,393,Return,6,2023-05-20,INV-000725,Return for BrandE Action Figure
+726,28,Stock Out,-43,2021-03-23,INV-000726,Stock Out for Premium Puzzle
+727,339,Damaged,-1,2021-08-10,INV-000727,Damaged for Standard Running Shoes
+728,404,Stock In,192,2023-06-09,INV-000728,Stock In for Elite Self-Help Book
+729,475,Stock In,133,2020-06-23,INV-000729,Stock In for Premium Backpack
+730,93,Return,1,2021-05-17,INV-000730,Return for Deluxe Jacket
+731,416,Stock Out,-48,2023-10-19,INV-000731,Stock Out for Basic Shampoo
+732,225,Stock Out,-4,2022-10-30,INV-000732,Stock Out for Deluxe Car Mat
+733,176,Adjustment,-2,2021-07-30,INV-000733,Adjustment for BrandE Phone Mount
+734,130,Stock In,145,2023-08-24,INV-000734,Stock In for BrandE Jeans
+735,58,Adjustment,-5,2022-05-09,INV-000735,Adjustment for BrandE Air Freshener
+736,22,Return,1,2023-09-23,INV-000736,Return for Premium Phone Mount
+737,171,Stock Out,-44,2020-02-02,INV-000737,Stock Out for BrandC Jacket
+738,428,Damaged,-2,2020-06-27,INV-000738,Damaged for BrandB Water Bottle
+739,106,Stock Out,-31,2023-02-07,INV-000739,Stock Out for BrandB Hat
+740,185,Damaged,-1,2020-11-20,INV-000740,Damaged for BrandE Paint Set
+741,22,Stock In,18,2023-04-03,INV-000741,Stock In for Premium Phone Mount
+742,376,Stock Out,-27,2022-09-21,INV-000742,Stock Out for BrandE Shampoo
+743,12,Return,8,2022-07-26,INV-000743,Return for BrandE T-Shirt
+744,155,Return,8,2021-05-06,INV-000744,Return for Elite Chocolate
+745,425,Return,6,2022-07-23,INV-000745,Return for BrandE Board Game
+746,179,Return,5,2022-01-01,INV-000746,Return for Premium Running Shoes
+747,451,Adjustment,-1,2021-11-08,INV-000747,Adjustment for BrandA Biography
+748,137,Damaged,-1,2021-03-02,INV-000748,Damaged for Basic Running Shoes
+749,440,Adjustment,12,2020-08-14,INV-000749,Adjustment for Standard Sneakers
+750,280,Damaged,-3,2023-11-26,INV-000750,Damaged for Premium Yoga Mat
+751,261,Adjustment,-8,2022-01-03,INV-000751,Adjustment for BrandA Vitamins
+752,418,Stock In,37,2020-04-13,INV-000752,Stock In for Elite Sweater
+753,175,Stock Out,-25,2023-07-02,INV-000753,Stock Out for BrandA Headphones
+754,325,Stock Out,-37,2021-10-07,INV-000754,Stock Out for Premium Coffee Beans
+755,376,Adjustment,-7,2021-04-26,INV-000755,Adjustment for BrandE Shampoo
+756,202,Stock In,147,2023-06-20,INV-000756,Stock In for BrandB Chocolate
+757,4,Stock Out,-13,2023-11-16,INV-000757,Stock Out for Standard Hat
+758,93,Stock Out,-13,2023-08-29,INV-000758,Stock Out for Deluxe Jacket
+759,277,Stock In,62,2022-01-17,INV-000759,Stock In for Elite Camera
+760,189,Stock In,89,2023-09-03,INV-000760,Stock In for BrandB Fiction Novel
+761,234,Damaged,-3,2021-11-19,INV-000761,Damaged for Premium Glue Set
+762,401,Stock In,128,2020-02-16,INV-000762,Stock In for BrandB Coffee Maker
+763,124,Stock Out,-25,2021-05-27,INV-000763,Stock Out for Basic Sweater
+764,306,Stock In,120,2020-10-10,INV-000764,Stock In for Basic Water Bottle
+765,307,Return,1,2022-02-28,INV-000765,Return for BrandD Glue Set
+766,43,Return,5,2020-08-05,INV-000766,Return for Deluxe Perfume
+767,19,Adjustment,20,2020-09-09,INV-000767,Adjustment for Premium Tea Set
+768,306,Adjustment,-1,2022-11-04,INV-000768,Adjustment for Basic Water Bottle
+769,455,Return,7,2020-11-17,INV-000769,Return for BrandB Cookbook
+770,275,Stock In,117,2021-08-08,INV-000770,Stock In for BrandA Sneakers
+771,189,Damaged,-2,2021-06-06,INV-000771,Damaged for BrandB Fiction Novel
+772,238,Stock Out,-30,2023-11-28,INV-000772,Stock Out for BrandE Paint Set
+773,295,Damaged,-4,2021-05-25,INV-000773,Damaged for Basic Vitamins
+774,408,Stock In,54,2023-04-09,INV-000774,Stock In for Deluxe Action Figure
+775,498,Adjustment,-17,2022-06-13,INV-000775,Adjustment for BrandE Water Bottle
+776,14,Damaged,-3,2022-09-05,INV-000776,Damaged for BrandB Bedding Set
+777,164,Stock Out,-23,2020-12-09,INV-000777,Stock Out for BrandB Phone Mount
+778,101,Stock In,50,2021-04-13,INV-000778,Stock In for BrandA Jacket
+779,335,Adjustment,12,2023-06-23,INV-000779,Adjustment for Elite Paint Set
+780,125,Stock Out,-30,2022-08-04,INV-000780,Stock Out for Premium Speaker
+781,324,Stock In,51,2022-02-05,INV-000781,Stock In for BrandB Makeup Kit
+782,299,Damaged,-2,2023-01-04,INV-000782,Damaged for Premium Craft Paper
+783,84,Adjustment,13,2023-02-19,INV-000783,Adjustment for Standard Coffee Beans
+784,120,Damaged,-1,2023-04-26,INV-000784,Damaged for Standard Sketchbook
+785,8,Damaged,-3,2023-05-20,INV-000785,Damaged for BrandE Cookbook
+786,168,Adjustment,-15,2022-02-25,INV-000786,Adjustment for BrandB Glue Set
+787,149,Adjustment,19,2023-04-07,INV-000787,Adjustment for BrandC Perfume
+788,35,Stock In,190,2023-12-05,INV-000788,Stock In for Basic Cookbook
+789,169,Damaged,-3,2021-10-04,INV-000789,Damaged for BrandB Yoga Mat
+790,463,Return,5,2021-09-03,INV-000790,Return for Deluxe Science Textbook
+791,156,Return,5,2021-10-20,INV-000791,Return for BrandB Smartphone
+792,256,Stock Out,-16,2023-04-11,INV-000792,Stock Out for BrandA Dress
+793,235,Stock In,17,2021-06-12,INV-000793,Stock In for Elite Science Textbook
+794,105,Stock In,104,2020-12-13,INV-000794,Stock In for BrandB Tent
+795,246,Adjustment,-11,2022-12-13,INV-000795,Adjustment for BrandB Tablet
+796,168,Return,8,2023-01-07,INV-000796,Return for BrandB Glue Set
+797,101,Adjustment,1,2021-06-07,INV-000797,Adjustment for BrandA Jacket
+798,72,Return,1,2020-05-21,INV-000798,Return for Basic Coffee Beans
+799,457,Damaged,-5,2022-08-20,INV-000799,Damaged for Deluxe Fiction Novel
+800,212,Return,10,2023-11-08,INV-000800,Return for BrandC Self-Help Book
+801,163,Adjustment,-18,2020-09-12,INV-000801,Adjustment for Premium Bedding Set
+802,11,Adjustment,4,2022-07-13,INV-000802,Adjustment for BrandB Perfume
+803,44,Stock In,167,2023-10-22,INV-000803,Stock In for BrandD Tablet
+804,397,Stock Out,-28,2022-09-30,INV-000804,Stock Out for BrandD Dress
+805,434,Stock Out,-49,2023-08-07,INV-000805,Stock Out for BrandC Jeans
+806,433,Adjustment,-18,2020-09-19,INV-000806,Adjustment for BrandC Fiction Novel
+807,286,Damaged,-1,2020-04-27,INV-000807,Damaged for Premium Tea Set
+808,194,Adjustment,-16,2022-08-03,INV-000808,Adjustment for Standard Protein Bar
+809,324,Return,1,2023-07-24,INV-000809,Return for BrandB Makeup Kit
+810,153,Return,4,2021-07-06,INV-000810,Return for BrandB Tire Gauge
+811,493,Return,1,2023-10-10,INV-000811,Return for BrandC Perfume
+812,346,Stock Out,-7,2022-04-27,INV-000812,Stock Out for Standard Puzzle
+813,95,Stock In,66,2023-09-21,INV-000813,Stock In for BrandB Car Mat
+814,294,Adjustment,-20,2022-09-25,INV-000814,Adjustment for BrandA Camera
+815,281,Damaged,-5,2020-09-18,INV-000815,Damaged for Elite Action Figure
+816,170,Stock In,108,2021-07-03,INV-000816,Stock In for BrandA Tea Set
+817,199,Adjustment,10,2021-10-24,INV-000817,Adjustment for BrandC Self-Help Book
+818,134,Stock Out,-32,2021-12-08,INV-000818,Stock Out for BrandB Biography
+819,367,Adjustment,-9,2022-10-26,INV-000819,Adjustment for BrandD Air Freshener
+820,277,Stock Out,-9,2023-02-24,INV-000820,Stock Out for Elite Camera
+821,153,Return,8,2023-11-08,INV-000821,Return for BrandB Tire Gauge
+822,383,Damaged,-3,2020-07-03,INV-000822,Damaged for BrandC Craft Paper
+823,42,Adjustment,-17,2022-05-16,INV-000823,Adjustment for Basic Vitamins
+824,173,Return,9,2022-11-06,INV-000824,Return for BrandE Water Bottle
+825,477,Stock In,98,2022-01-04,INV-000825,Stock In for BrandC Jeans
+826,248,Return,2,2023-11-19,INV-000826,Return for Deluxe Bicycle
+827,185,Adjustment,3,2022-05-01,INV-000827,Adjustment for BrandE Paint Set
+828,366,Return,2,2022-05-12,INV-000828,Return for Premium Coffee Maker
+829,487,Return,9,2023-04-07,INV-000829,Return for BrandB Phone Mount
+830,249,Adjustment,-18,2023-03-04,INV-000830,Adjustment for BrandD Coffee Beans
+831,53,Stock Out,-27,2021-05-04,INV-000831,Stock Out for Premium Coffee Beans
+832,444,Return,5,2022-04-14,INV-000832,Return for BrandA Lamp
+833,45,Stock In,97,2023-03-10,INV-000833,Stock In for Elite Chocolate
+834,58,Adjustment,0,2020-09-01,INV-000834,Adjustment for BrandE Air Freshener
+835,123,Return,2,2020-05-26,INV-000835,Return for Premium Tea Set
+836,145,Stock Out,-14,2023-04-17,INV-000836,Stock Out for BrandE Sneakers
+837,54,Adjustment,6,2021-01-19,INV-000837,Adjustment for Basic Vacuum Cleaner
+838,75,Stock Out,-9,2021-06-18,INV-000838,Stock Out for BrandB Bedding Set
+839,153,Adjustment,-16,2022-11-12,INV-000839,Adjustment for BrandB Tire Gauge
+840,80,Stock Out,-24,2022-03-19,INV-000840,Stock Out for BrandC Face Cream
+841,59,Damaged,-4,2020-05-17,INV-000841,Damaged for Elite Plant Pot
+842,347,Damaged,-2,2020-06-15,INV-000842,Damaged for Premium Phone Mount
+843,109,Stock Out,-42,2023-12-23,INV-000843,Stock Out for BrandB Toy Car
+844,370,Return,10,2022-07-12,INV-000844,Return for BrandD Camera
+845,380,Adjustment,15,2023-12-04,INV-000845,Adjustment for Standard Vitamins
+846,88,Return,10,2022-09-22,INV-000846,Return for Elite Protein Bar
+847,184,Damaged,-3,2022-12-12,INV-000847,Damaged for BrandA Perfume
+848,392,Return,10,2022-11-05,INV-000848,Return for BrandB Tea Set
+849,332,Damaged,-4,2021-02-09,INV-000849,Damaged for BrandB Coffee Beans
+850,90,Stock In,156,2022-05-20,INV-000850,Stock In for Deluxe Phone Mount
+851,106,Stock Out,-4,2021-12-12,INV-000851,Stock Out for BrandB Hat
+852,69,Stock Out,-32,2023-07-08,INV-000852,Stock Out for BrandE Tent
+853,387,Stock In,76,2023-12-22,INV-000853,Stock In for Standard Toy Car
+854,237,Stock Out,-25,2023-03-14,INV-000854,Stock Out for Elite Paint Set
+855,54,Stock Out,-12,2021-12-12,INV-000855,Stock Out for Basic Vacuum Cleaner
+856,271,Damaged,-1,2022-05-14,INV-000856,Damaged for Standard Bicycle
+857,448,Adjustment,-12,2021-04-26,INV-000857,Adjustment for BrandD Protein Bar
+858,112,Stock In,40,2020-10-01,INV-000858,Stock In for BrandE Cookbook
+859,331,Return,5,2022-04-10,INV-000859,Return for Basic Craft Paper
+860,98,Damaged,-1,2020-08-14,INV-000860,Damaged for Basic Science Textbook
+861,247,Return,7,2021-02-21,INV-000861,Return for BrandD Self-Help Book
+862,251,Stock In,165,2020-07-04,INV-000862,Stock In for BrandA Dress
+863,132,Damaged,-5,2022-05-20,INV-000863,Damaged for Deluxe Action Figure
+864,277,Stock Out,-30,2023-10-29,INV-000864,Stock Out for Elite Camera
+865,254,Stock In,144,2022-01-13,INV-000865,Stock In for Standard Chocolate
+866,311,Adjustment,-6,2022-03-06,INV-000866,Adjustment for Basic Laptop
+867,497,Stock In,117,2020-11-03,INV-000867,Stock In for Elite Lamp
+868,78,Stock Out,-13,2020-01-25,INV-000868,Stock Out for BrandD Smart Watch
+869,210,Return,4,2021-12-14,INV-000869,Return for BrandD Jeans
+870,444,Return,8,2021-02-26,INV-000870,Return for BrandA Lamp
+871,196,Adjustment,11,2022-07-20,INV-000871,Adjustment for Elite Shampoo
+872,441,Adjustment,5,2023-06-24,INV-000872,Adjustment for BrandC Sneakers
+873,110,Adjustment,-10,2023-05-30,INV-000873,Adjustment for Premium Tire Gauge
+874,321,Damaged,-3,2020-05-12,INV-000874,Damaged for BrandA Coffee Beans
+875,151,Stock In,86,2020-01-18,INV-000875,Stock In for Deluxe Doll
+876,191,Stock In,65,2020-11-22,INV-000876,Stock In for BrandE Glue Set
+877,234,Return,4,2020-02-07,INV-000877,Return for Premium Glue Set
+878,283,Stock Out,-49,2020-09-18,INV-000878,Stock Out for BrandB Chocolate
+879,401,Adjustment,13,2020-12-22,INV-000879,Adjustment for BrandB Coffee Maker
+880,423,Return,5,2023-11-23,INV-000880,Return for BrandE Hat
+881,444,Return,4,2021-10-27,INV-000881,Return for BrandA Lamp
+882,404,Stock Out,-44,2021-04-14,INV-000882,Stock Out for Elite Self-Help Book
+883,421,Adjustment,6,2020-06-14,INV-000883,Adjustment for BrandC Board Game
+884,328,Stock In,152,2022-11-20,INV-000884,Stock In for Elite Glue Set
+885,167,Stock Out,-1,2021-05-12,INV-000885,Stock Out for BrandA Tire Gauge
+886,9,Damaged,-1,2023-11-07,INV-000886,Damaged for BrandE Lamp
+887,92,Return,10,2021-11-05,INV-000887,Return for BrandA Bicycle
+888,163,Damaged,-4,2020-10-11,INV-000888,Damaged for Premium Bedding Set
+889,351,Stock In,153,2021-11-16,INV-000889,Stock In for BrandB Car Mat
+890,453,Stock Out,-42,2023-09-23,INV-000890,Stock Out for Standard Craft Paper
+891,37,Stock In,191,2020-07-29,INV-000891,Stock In for Basic Sneakers
+892,227,Stock In,177,2020-12-01,INV-000892,Stock In for BrandE Tablet
+893,109,Damaged,-1,2022-08-13,INV-000893,Damaged for BrandB Toy Car
+894,368,Return,10,2020-03-02,INV-000894,Return for BrandA Plant Pot
+895,319,Stock Out,-41,2022-03-12,INV-000895,Stock Out for BrandB Smart Watch
+896,463,Return,7,2022-03-16,INV-000896,Return for Deluxe Science Textbook
+897,89,Stock Out,-26,2023-08-26,INV-000897,Stock Out for Premium Water Bottle
+898,249,Damaged,-3,2022-09-10,INV-000898,Damaged for BrandD Coffee Beans
+899,277,Stock Out,-33,2020-05-30,INV-000899,Stock Out for Elite Camera
+900,296,Stock Out,-11,2022-04-28,INV-000900,Stock Out for Elite Coffee Beans
+901,491,Adjustment,17,2022-11-21,INV-000901,Adjustment for Basic Board Game
+902,449,Adjustment,1,2020-01-21,INV-000902,Adjustment for Deluxe Protein Bar
+903,268,Stock Out,-13,2023-11-01,INV-000903,Stock Out for BrandB Plant Pot
+904,325,Return,10,2020-04-10,INV-000904,Return for Premium Coffee Beans
+905,59,Stock Out,-43,2023-09-21,INV-000905,Stock Out for Elite Plant Pot
+906,431,Damaged,-3,2020-03-04,INV-000906,Damaged for Elite Smart Watch
+907,223,Stock Out,-32,2022-01-09,INV-000907,Stock Out for BrandE Chocolate
+908,288,Stock Out,-23,2023-07-20,INV-000908,Stock Out for BrandE Headphones
+909,296,Stock Out,-43,2020-08-08,INV-000909,Stock Out for Elite Coffee Beans
+910,493,Stock Out,-10,2023-12-26,INV-000910,Stock Out for BrandC Perfume
+911,216,Adjustment,1,2020-09-15,INV-000911,Adjustment for BrandD Smartphone
+912,460,Return,6,2022-04-29,INV-000912,Return for BrandB Paint Set
+913,115,Return,2,2023-04-07,INV-000913,Return for Elite Craft Paper
+914,194,Adjustment,-17,2021-05-26,INV-000914,Adjustment for Standard Protein Bar
+915,413,Stock In,104,2022-04-04,INV-000915,Stock In for Elite Craft Paper
+916,345,Damaged,-4,2023-02-11,INV-000916,Damaged for Deluxe Tea Set
+917,490,Stock In,126,2020-05-17,INV-000917,Stock In for BrandB Bedding Set
+918,275,Stock Out,-45,2022-03-26,INV-000918,Stock Out for BrandA Sneakers
+919,54,Adjustment,-11,2021-08-04,INV-000919,Adjustment for Basic Vacuum Cleaner
+920,61,Damaged,-3,2023-01-14,INV-000920,Damaged for BrandA Vitamins
+921,14,Damaged,-1,2022-10-22,INV-000921,Damaged for BrandB Bedding Set
+922,176,Adjustment,-10,2023-05-12,INV-000922,Adjustment for BrandE Phone Mount
+923,13,Damaged,-2,2022-11-05,INV-000923,Damaged for BrandD Backpack
+924,242,Damaged,-2,2020-01-09,INV-000924,Damaged for BrandB Smart Watch
+925,478,Stock In,93,2020-09-04,INV-000925,Stock In for BrandA Air Freshener
+926,82,Adjustment,17,2022-08-14,INV-000926,Adjustment for BrandC Hat
+927,345,Return,8,2022-04-27,INV-000927,Return for Deluxe Tea Set
+928,346,Adjustment,16,2020-07-01,INV-000928,Adjustment for Standard Puzzle
+929,54,Stock Out,-26,2020-06-22,INV-000929,Stock Out for Basic Vacuum Cleaner
+930,46,Return,6,2022-06-21,INV-000930,Return for BrandD Sketchbook
+931,239,Return,6,2020-10-08,INV-000931,Return for Elite Protein Bar
+932,263,Damaged,-2,2020-10-01,INV-000932,Damaged for Premium Speaker
+933,291,Return,2,2023-03-08,INV-000933,Return for Basic Jacket
+934,226,Adjustment,-3,2023-12-21,INV-000934,Adjustment for Standard Speaker
+935,286,Damaged,-1,2020-09-25,INV-000935,Damaged for Premium Tea Set
+936,51,Damaged,-3,2023-02-24,INV-000936,Damaged for Basic Face Cream
+937,201,Adjustment,17,2021-08-30,INV-000937,Adjustment for BrandB Shampoo
+938,138,Stock Out,-43,2021-06-08,INV-000938,Stock Out for BrandE Board Game
+939,454,Adjustment,9,2022-09-10,INV-000939,Adjustment for BrandD Protein Bar
+940,133,Return,7,2020-06-06,INV-000940,Return for BrandD Self-Help Book
+941,208,Stock Out,-35,2023-01-02,INV-000941,Stock Out for Deluxe Water Bottle
+942,220,Return,6,2023-07-04,INV-000942,Return for Deluxe Protein Bar
+943,440,Adjustment,-19,2020-03-10,INV-000943,Adjustment for Standard Sneakers
+944,299,Damaged,-1,2023-11-29,INV-000944,Damaged for Premium Craft Paper
+945,262,Adjustment,18,2021-12-10,INV-000945,Adjustment for Elite Board Game
+946,292,Return,8,2022-11-21,INV-000946,Return for Premium Lamp
+947,405,Stock Out,-10,2021-03-02,INV-000947,Stock Out for BrandA Camera
+948,285,Damaged,-3,2023-04-25,INV-000948,Damaged for Basic Self-Help Book
+949,39,Stock Out,-25,2020-02-01,INV-000949,Stock Out for Deluxe Yoga Mat
+950,1,Stock In,158,2021-08-06,INV-000950,Stock In for BrandC Coffee Beans
+951,29,Stock In,49,2023-07-28,INV-000951,Stock In for BrandD Cookbook
+952,49,Return,1,2022-04-30,INV-000952,Return for Elite Science Textbook
+953,54,Return,2,2023-02-24,INV-000953,Return for Basic Vacuum Cleaner
+954,395,Adjustment,-6,2022-04-19,INV-000954,Adjustment for Deluxe Self-Help Book
+955,405,Stock In,190,2022-12-23,INV-000955,Stock In for BrandA Camera
+956,149,Return,9,2020-03-26,INV-000956,Return for BrandC Perfume
+957,289,Return,3,2020-01-02,INV-000957,Return for Elite Laptop
+958,499,Stock Out,-2,2021-04-02,INV-000958,Stock Out for Premium Biography
+959,148,Stock Out,-36,2023-01-29,INV-000959,Stock Out for Premium Tablet
+960,450,Stock In,27,2020-11-19,INV-000960,Stock In for Basic Glue Set
+961,322,Stock In,157,2023-06-19,INV-000961,Stock In for Deluxe Jeans
+962,79,Return,7,2022-09-03,INV-000962,Return for BrandB Puzzle
+963,229,Return,4,2022-06-26,INV-000963,Return for BrandA Air Freshener
+964,447,Stock Out,-2,2021-02-12,INV-000964,Stock Out for Basic Fiction Novel
+965,221,Return,4,2021-08-27,INV-000965,Return for Basic Yoga Mat
+966,379,Adjustment,12,2021-04-03,INV-000966,Adjustment for Standard Glue Set
+967,247,Return,6,2022-05-11,INV-000967,Return for BrandD Self-Help Book
+968,364,Return,1,2022-07-31,INV-000968,Return for BrandD Hat
+969,58,Stock In,158,2023-07-12,INV-000969,Stock In for BrandE Air Freshener
+970,451,Stock In,98,2022-04-10,INV-000970,Stock In for BrandA Biography
+971,200,Adjustment,11,2021-08-10,INV-000971,Adjustment for Basic Car Mat
+972,323,Stock Out,-38,2022-04-15,INV-000972,Stock Out for Basic Speaker
+973,144,Return,8,2020-03-10,INV-000973,Return for Standard Air Freshener
+974,222,Adjustment,-4,2022-03-11,INV-000974,Adjustment for Elite Monitor
+975,15,Return,4,2023-05-15,INV-000975,Return for BrandE Car Mat
+976,75,Stock Out,-5,2022-03-14,INV-000976,Stock Out for BrandB Bedding Set
+977,490,Adjustment,18,2020-01-12,INV-000977,Adjustment for BrandB Bedding Set
+978,487,Damaged,-3,2021-07-08,INV-000978,Damaged for BrandB Phone Mount
+979,48,Return,9,2023-08-31,INV-000979,Return for BrandB Dress
+980,51,Damaged,-4,2021-05-08,INV-000980,Damaged for Basic Face Cream
+981,89,Stock In,100,2022-11-25,INV-000981,Stock In for Premium Water Bottle
+982,33,Damaged,-4,2022-12-29,INV-000982,Damaged for BrandB Phone Mount
+983,100,Stock In,24,2020-11-25,INV-000983,Stock In for Basic Garden Hose
+984,227,Adjustment,-7,2020-07-12,INV-000984,Adjustment for BrandE Tablet
+985,294,Stock Out,-38,2020-12-26,INV-000985,Stock Out for BrandA Camera
+986,254,Return,7,2020-09-18,INV-000986,Return for Standard Chocolate
+987,201,Adjustment,-3,2022-10-11,INV-000987,Adjustment for BrandB Shampoo
+988,299,Damaged,-1,2023-11-06,INV-000988,Damaged for Premium Craft Paper
+989,38,Stock In,154,2021-11-02,INV-000989,Stock In for Premium Coffee Beans
+990,205,Damaged,-1,2021-09-18,INV-000990,Damaged for Basic Protein Bar
+991,19,Stock In,33,2021-08-24,INV-000991,Stock In for Premium Tea Set
+992,206,Return,2,2021-10-08,INV-000992,Return for BrandA Craft Paper
+993,93,Damaged,-4,2020-01-27,INV-000993,Damaged for Deluxe Jacket
+994,53,Stock In,16,2020-05-24,INV-000994,Stock In for Premium Coffee Beans
+995,330,Damaged,-1,2020-03-12,INV-000995,Damaged for Basic Doll
+996,322,Return,4,2022-11-29,INV-000996,Return for Deluxe Jeans
+997,368,Damaged,-3,2021-06-11,INV-000997,Damaged for BrandA Plant Pot
+998,374,Return,8,2023-12-23,INV-000998,Return for BrandD Self-Help Book
+999,256,Stock Out,-41,2021-09-24,INV-000999,Stock Out for BrandA Dress
+1000,392,Return,5,2021-05-14,INV-001000,Return for BrandB Tea Set

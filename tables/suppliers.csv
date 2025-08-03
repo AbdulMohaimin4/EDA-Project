@@ -1,0 +1,6 @@
+supplier_id,supplier_name,contact_person,email,phone,address,city,state,country,rating
+1,TechSource Inc,John Smith,john@techsource.com,+1-555-0101,123 Tech Ave,San Francisco,CA,USA,4.5
+2,Fashion Forward Ltd,Sarah Johnson,sarah@fashionforward.com,+1-555-0102,456 Style St,New York,NY,USA,4.2
+3,Home Essentials Co,Mike Chen,mike@homeessentials.com,+1-555-0103,789 Garden Rd,Chicago,IL,USA,4.7
+4,Sports Gear Direct,Lisa Brown,lisa@sportsgear.com,+1-555-0104,321 Athletic Way,Denver,CO,USA,4.3
+5,Global Books Publishing,David Wilson,david@globalbooks.com,+1-555-0105,654 Literature Lane,Boston,MA,USA,4.6

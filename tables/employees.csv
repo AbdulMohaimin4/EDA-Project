@@ -1,0 +1,51 @@
+employee_id,first_name,last_name,email,department,position,hire_date,salary,manager_id
+1,Dan,Ford,dan.ford@company.com,Customer Service,Chat Agent,2020-09-24,42335,
+2,Frank,Clark,frank.clark@company.com,Finance,Accountant,2020-09-11,102878,
+3,Alice,Hall,alice.hall@company.com,Sales,Sales Manager,2018-07-18,40973,
+4,Ivy,Brown,ivy.brown@company.com,HR,Recruiter,2021-07-27,117634,
+5,Dan,Ford,dan.ford@company.com,HR,Recruiter,2017-11-27,73625,
+6,Carol,Evans,carol.evans@company.com,Marketing,Marketing Manager,2022-11-22,97044,
+7,Henry,Evans,henry.evans@company.com,Warehouse,Inventory Manager,2018-03-14,70844,
+8,Eva,Jones,eva.jones@company.com,IT,IT Support,2017-10-01,39446,
+9,Eva,Adams,eva.adams@company.com,Customer Service,Support Manager,2015-07-19,91984,
+10,Jack,Irwin,jack.irwin@company.com,Sales,Sales Manager,2020-09-24,52788,
+11,Ivy,Green,ivy.green@company.com,Warehouse,Inventory Manager,2016-05-30,94962,6.0
+12,Dan,Hall,dan.hall@company.com,HR,Recruiter,2020-03-09,112816,4.0
+13,Frank,Evans,frank.evans@company.com,HR,HR Manager,2022-04-29,84786,1.0
+14,Carol,Brown,carol.brown@company.com,IT,Software Developer,2015-04-01,68313,1.0
+15,Frank,Evans,frank.evans@company.com,Warehouse,Warehouse Worker,2018-12-21,60967,10.0
+16,Bob,Green,bob.green@company.com,Warehouse,Warehouse Worker,2015-09-05,110170,10.0
+17,Carol,Evans,carol.evans@company.com,HR,HR Specialist,2020-04-03,39073,8.0
+18,Grace,Clark,grace.clark@company.com,IT,Software Developer,2019-01-16,48651,8.0
+19,Bob,Green,bob.green@company.com,Customer Service,Customer Service Rep,2015-08-21,63522,3.0
+20,Dan,Jones,dan.jones@company.com,Customer Service,Customer Service Rep,2018-05-02,67312,10.0
+21,Eva,Evans,eva.evans@company.com,IT,System Administrator,2016-09-25,95283,9.0
+22,Carol,Davis,carol.davis@company.com,IT,IT Support,2019-10-17,46902,8.0
+23,Jack,Green,jack.green@company.com,IT,IT Support,2023-02-21,69414,6.0
+24,Jack,Ford,jack.ford@company.com,HR,Recruiter,2022-12-23,116681,6.0
+25,Ivy,Brown,ivy.brown@company.com,HR,Recruiter,2016-12-10,93802,4.0
+26,Henry,Evans,henry.evans@company.com,Finance,Accountant,2022-08-21,53838,8.0
+27,Ivy,Davis,ivy.davis@company.com,Finance,Accountant,2016-06-27,54014,5.0
+28,Dan,Jones,dan.jones@company.com,Sales,Sales Representative,2017-05-04,86660,3.0
+29,Bob,Hall,bob.hall@company.com,Warehouse,Inventory Manager,2019-08-01,70471,1.0
+30,Eva,Adams,eva.adams@company.com,HR,HR Manager,2018-02-13,86044,6.0
+31,Bob,Brown,bob.brown@company.com,Finance,Financial Analyst,2016-10-31,107408,7.0
+32,Bob,Brown,bob.brown@company.com,Marketing,Content Creator,2015-03-07,80903,1.0
+33,Carol,Irwin,carol.irwin@company.com,Marketing,Content Creator,2023-01-21,114049,3.0
+34,Eva,Ford,eva.ford@company.com,Sales,Sales Manager,2021-08-04,81728,3.0
+35,Carol,Hall,carol.hall@company.com,HR,HR Manager,2019-09-17,99273,8.0
+36,Carol,Davis,carol.davis@company.com,HR,Recruiter,2022-01-03,62550,6.0
+37,Dan,Davis,dan.davis@company.com,Finance,Financial Analyst,2022-03-01,94874,4.0
+38,Henry,Irwin,henry.irwin@company.com,Finance,Accountant,2017-06-03,114680,7.0
+39,Jack,Clark,jack.clark@company.com,HR,HR Manager,2015-11-23,80182,2.0
+40,Carol,Green,carol.green@company.com,Sales,Sales Representative,2015-01-06,99188,8.0
+41,Bob,Evans,bob.evans@company.com,HR,HR Specialist,2017-03-04,117317,5.0
+42,Grace,Jones,grace.jones@company.com,Finance,Finance Manager,2022-06-22,85155,6.0
+43,Bob,Ford,bob.ford@company.com,Marketing,Marketing Manager,2018-12-31,97443,4.0
+44,Frank,Clark,frank.clark@company.com,Sales,Sales Representative,2015-01-18,108441,10.0
+45,Bob,Irwin,bob.irwin@company.com,IT,Software Developer,2020-01-31,64095,1.0
+46,Frank,Adams,frank.adams@company.com,Finance,Finance Manager,2020-05-04,116618,4.0
+47,Henry,Hall,henry.hall@company.com,HR,HR Specialist,2017-07-21,48821,3.0
+48,Dan,Evans,dan.evans@company.com,IT,IT Support,2015-12-17,75808,9.0
+49,Carol,Hall,carol.hall@company.com,Customer Service,Customer Service Rep,2022-07-06,83905,10.0
+50,Alice,Irwin,alice.irwin@company.com,Finance,Finance Manager,2016-09-03,88998,9.0

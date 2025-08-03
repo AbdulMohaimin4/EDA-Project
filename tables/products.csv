@@ -1,0 +1,501 @@
+product_id,product_name,category_id,brand,price,cost,stock_quantity,weight_kg,dimensions,description,created_date
+1,BrandC Coffee Beans,9,BrandC,31.96,19.46,33,2.97,41x8x24,High-quality coffee beans from BrandC,2020-01-25
+2,Elite Camera,1,Elite,1385.15,915.69,19,1.74,37x29x19,High-quality camera from Elite,2021-03-10
+3,Deluxe Glue Set,10,Deluxe,26.19,11.92,40,5.76,42x49x2,High-quality glue set from Deluxe,2021-11-16
+4,Standard Hat,2,Standard,145.93,81.36,77,8.54,23x50x10,High-quality hat from Standard,2019-09-01
+5,BrandD Dress,2,BrandD,23.44,11.05,10,6.43,22x13x10,High-quality dress from BrandD,2019-04-16
+6,BrandD Tea Set,9,BrandD,29.06,11.64,88,6.36,28x25x4,High-quality tea set from BrandD,2020-06-24
+7,Basic Headphones,1,Basic,1801.75,880.1,14,6.3,5x27x9,High-quality headphones from Basic,2020-07-26
+8,BrandE Cookbook,5,BrandE,48.86,27.42,199,9.4,42x11x25,High-quality cookbook from BrandE,2021-02-21
+9,BrandE Lamp,3,BrandE,437.61,258.32,141,2.14,33x19x12,High-quality lamp from BrandE,2020-07-04
+10,Deluxe Cookbook,5,Deluxe,35.19,23.14,101,1.64,19x32x13,High-quality cookbook from Deluxe,2019-10-31
+11,BrandB Perfume,6,BrandB,53.63,28.84,45,1.97,36x16x22,High-quality perfume from BrandB,2020-07-31
+12,BrandE T-Shirt,2,BrandE,45.14,20.46,100,6.9,17x9x6,High-quality t-shirt from BrandE,2019-05-28
+13,BrandD Backpack,4,BrandD,150.13,89.11,103,1.09,38x13x25,High-quality backpack from BrandD,2019-01-25
+14,BrandB Bedding Set,3,BrandB,201.38,81.8,3,7.66,46x7x6,High-quality bedding set from BrandB,2020-05-23
+15,BrandE Car Mat,8,BrandE,34.26,20.15,3,7.94,5x11x19,High-quality car mat from BrandE,2020-11-24
+16,BrandD Board Game,7,BrandD,21.47,13.48,113,8.17,24x26x17,High-quality board game from BrandD,2019-11-13
+17,BrandA Cookbook,5,BrandA,31.74,15.24,139,1.32,7x11x19,High-quality cookbook from BrandA,2020-08-30
+18,Standard Jeans,2,Standard,178.99,93.9,0,9.13,6x19x15,High-quality jeans from Standard,2021-02-28
+19,Premium Tea Set,9,Premium,34.49,16.13,175,3.91,50x12x17,High-quality tea set from Premium,2019-12-14
+20,BrandD Laptop,1,BrandD,248.39,170.58,91,0.86,26x12x13,High-quality laptop from BrandD,2019-06-23
+21,Deluxe T-Shirt,2,Deluxe,42.95,22.7,85,6.04,48x32x6,High-quality t-shirt from Deluxe,2020-09-09
+22,Premium Phone Mount,8,Premium,133.18,64.1,127,6.65,21x50x4,High-quality phone mount from Premium,2019-01-05
+23,BrandC Shampoo,6,BrandC,37.46,19.37,184,7.99,35x9x5,High-quality shampoo from BrandC,2021-05-25
+24,BrandC Puzzle,7,BrandC,18.15,12.68,46,7.7,27x25x17,High-quality puzzle from BrandC,2021-05-18
+25,Basic Glue Set,10,Basic,48.32,28.56,35,8.04,46x20x14,High-quality glue set from Basic,2021-05-07
+26,Elite Water Bottle,4,Elite,173.16,94.85,137,8.23,29x10x20,High-quality water bottle from Elite,2021-05-13
+27,BrandB Air Freshener,8,BrandB,46.75,18.74,4,3.69,35x13x5,High-quality air freshener from BrandB,2019-05-03
+28,Premium Puzzle,7,Premium,69.72,46.02,35,3.02,14x40x15,High-quality puzzle from Premium,2020-05-11
+29,BrandD Cookbook,5,BrandD,12.23,5.4,178,7.07,29x6x24,High-quality cookbook from BrandD,2021-05-19
+30,BrandA Vitamins,6,BrandA,72.53,43.43,18,4.82,43x15x2,High-quality vitamins from BrandA,2019-10-28
+31,BrandC Puzzle,7,BrandC,17.37,7.35,145,8.33,31x14x7,High-quality puzzle from BrandC,2021-08-20
+32,Standard Tea Set,9,Standard,36.44,17.85,105,7.25,33x46x24,High-quality tea set from Standard,2019-01-28
+33,BrandB Phone Mount,8,BrandB,36.04,23.94,8,6.08,16x37x7,High-quality phone mount from BrandB,2019-01-23
+34,Basic Biography,5,Basic,37.2,24.66,141,7.14,21x41x18,High-quality biography from Basic,2020-09-18
+35,Basic Cookbook,5,Basic,47.26,22.76,23,5.26,13x18x14,High-quality cookbook from Basic,2019-04-25
+36,Basic Sketchbook,10,Basic,20.31,12.67,143,6.09,9x49x16,High-quality sketchbook from Basic,2021-09-04
+37,Basic Sneakers,2,Basic,168.04,75.53,95,6.5,17x22x5,High-quality sneakers from Basic,2019-08-02
+38,Premium Coffee Beans,9,Premium,32.14,21.02,7,2.47,15x39x5,High-quality coffee beans from Premium,2019-05-14
+39,Deluxe Yoga Mat,4,Deluxe,28.02,18.85,48,5.56,45x7x9,High-quality yoga mat from Deluxe,2020-07-05
+40,Deluxe Coffee Beans,9,Deluxe,30.42,17.31,123,0.55,25x10x11,High-quality coffee beans from Deluxe,2019-01-18
+41,BrandE Garden Hose,3,BrandE,480.19,264.14,80,7.54,27x13x24,High-quality garden hose from BrandE,2019-07-19
+42,Basic Vitamins,6,Basic,90.48,49.86,128,8.09,14x6x20,High-quality vitamins from Basic,2021-02-21
+43,Deluxe Perfume,6,Deluxe,87.93,36.16,41,1.6,34x10x22,High-quality perfume from Deluxe,2019-07-11
+44,BrandD Tablet,1,BrandD,1624.58,968.68,196,7.21,37x38x25,High-quality tablet from BrandD,2021-12-07
+45,Elite Chocolate,9,Elite,40.34,20.24,92,6.27,32x7x24,High-quality chocolate from Elite,2021-03-04
+46,BrandD Sketchbook,10,BrandD,74.8,43.54,39,5.71,36x11x2,High-quality sketchbook from BrandD,2019-10-20
+47,Standard Vitamins,6,Standard,87.81,56.13,22,5.04,34x25x7,High-quality vitamins from Standard,2020-08-28
+48,BrandB Dress,2,BrandB,66.82,34.01,22,0.8,50x34x10,High-quality dress from BrandB,2021-08-27
+49,Elite Science Textbook,5,Elite,36.01,15.92,31,9.72,36x7x13,High-quality science textbook from Elite,2020-08-10
+50,Basic Protein Bar,9,Basic,43.57,29.42,33,4.46,37x44x12,High-quality protein bar from Basic,2021-02-04
+51,Basic Face Cream,6,Basic,54.55,26.12,174,0.52,46x8x25,High-quality face cream from Basic,2020-05-16
+52,BrandC Smartphone,1,BrandC,1713.47,834.8,40,5.74,9x19x14,High-quality smartphone from BrandC,2021-08-04
+53,Premium Coffee Beans,9,Premium,25.96,15.39,119,1.18,16x11x14,High-quality coffee beans from Premium,2021-06-06
+54,Basic Vacuum Cleaner,3,Basic,177.79,88.04,154,4.91,49x35x5,High-quality vacuum cleaner from Basic,2020-07-24
+55,BrandA Tire Gauge,8,BrandA,88.59,60.65,37,6.44,25x41x3,High-quality tire gauge from BrandA,2021-02-17
+56,Premium Paint Set,10,Premium,60.9,42.24,54,0.64,6x48x15,High-quality paint set from Premium,2020-07-06
+57,BrandC Bicycle,4,BrandC,47.99,20.19,103,0.91,50x33x15,High-quality bicycle from BrandC,2021-12-10
+58,BrandE Air Freshener,8,BrandE,39.85,16.58,109,3.49,24x15x8,High-quality air freshener from BrandE,2020-12-16
+59,Elite Plant Pot,3,Elite,248.24,150.59,41,9.66,32x27x24,High-quality plant pot from Elite,2021-03-07
+60,Standard Smartphone,1,Standard,1576.99,913.3,19,7.25,42x44x6,High-quality smartphone from Standard,2020-10-25
+61,BrandA Vitamins,6,BrandA,21.85,11.75,37,5.04,25x12x23,High-quality vitamins from BrandA,2021-04-12
+62,Standard Chocolate,9,Standard,37.5,26.12,32,6.38,45x42x5,High-quality chocolate from Standard,2019-03-16
+63,BrandD Shampoo,6,BrandD,46.66,26.31,42,6.05,18x27x8,High-quality shampoo from BrandD,2020-01-27
+64,BrandA Doll,7,BrandA,37.18,18.93,77,8.98,37x12x24,High-quality doll from BrandA,2021-10-19
+65,Basic Tire Gauge,8,Basic,70.4,35.6,138,4.32,26x12x7,High-quality tire gauge from Basic,2021-07-28
+66,Premium Plant Pot,3,Premium,104.91,60.69,138,4.42,23x47x24,High-quality plant pot from Premium,2021-06-14
+67,Deluxe Science Textbook,5,Deluxe,47.52,31.92,25,9.95,11x10x22,High-quality science textbook from Deluxe,2019-02-03
+68,BrandB Boots,2,BrandB,106.83,66.82,139,1.09,33x37x20,High-quality boots from BrandB,2019-03-08
+69,BrandE Tent,4,BrandE,259.22,120.16,198,4.6,29x12x8,High-quality tent from BrandE,2021-08-19
+70,Premium Jeans,2,Premium,194.01,130.8,105,9.09,46x50x25,High-quality jeans from Premium,2021-03-21
+71,Premium Fiction Novel,5,Premium,41.29,22.8,68,8.81,21x24x15,High-quality fiction novel from Premium,2020-05-09
+72,Basic Coffee Beans,9,Basic,6.47,2.64,95,8.42,38x43x12,High-quality coffee beans from Basic,2020-11-17
+73,Deluxe Vacuum Cleaner,3,Deluxe,496.56,234.65,100,2.01,46x30x3,High-quality vacuum cleaner from Deluxe,2021-05-28
+74,Basic Yoga Mat,4,Basic,293.77,132.82,81,5.22,32x19x5,High-quality yoga mat from Basic,2019-09-16
+75,BrandB Bedding Set,3,BrandB,323.09,205.25,195,6.31,21x40x7,High-quality bedding set from BrandB,2020-10-22
+76,BrandB Tea Set,9,BrandB,9.2,4.89,160,7.72,14x6x21,High-quality tea set from BrandB,2019-06-11
+77,BrandA Glue Set,10,BrandA,57.74,25.36,116,6.38,27x16x9,High-quality glue set from BrandA,2020-03-30
+78,BrandD Smart Watch,1,BrandD,1094.06,518.12,199,8.09,29x21x23,High-quality smart watch from BrandD,2019-04-16
+79,BrandB Puzzle,7,BrandB,75.58,44.46,163,9.85,11x12x16,High-quality puzzle from BrandB,2019-09-09
+80,BrandC Face Cream,6,BrandC,33.99,22.72,23,0.87,28x18x14,High-quality face cream from BrandC,2019-07-26
+81,BrandA Toy Car,7,BrandA,40.13,21.91,160,0.86,48x31x14,High-quality toy car from BrandA,2020-10-04
+82,BrandC Hat,2,BrandC,48.26,19.45,45,6.63,45x43x3,High-quality hat from BrandC,2019-08-29
+83,Premium Craft Paper,10,Premium,40.42,23.61,139,0.15,38x21x5,High-quality craft paper from Premium,2020-01-30
+84,Standard Coffee Beans,9,Standard,6.04,3.34,39,2.24,28x12x8,High-quality coffee beans from Standard,2019-03-02
+85,BrandC Speaker,1,BrandC,478.53,295.89,32,2.75,35x17x4,High-quality speaker from BrandC,2020-12-14
+86,BrandE Makeup Kit,6,BrandE,50.97,32.76,111,5.18,30x17x10,High-quality makeup kit from BrandE,2019-12-21
+87,BrandE Sweater,2,BrandE,192.95,83.14,196,5.92,15x18x25,High-quality sweater from BrandE,2021-09-26
+88,Elite Protein Bar,9,Elite,24.07,15.02,81,6.27,43x29x15,High-quality protein bar from Elite,2020-02-14
+89,Premium Water Bottle,4,Premium,127.84,75.4,16,4.55,7x37x10,High-quality water bottle from Premium,2021-04-19
+90,Deluxe Phone Mount,8,Deluxe,126.6,75.14,135,3.59,6x12x7,High-quality phone mount from Deluxe,2020-10-22
+91,BrandC Boots,2,BrandC,81.18,34.24,168,3.78,14x25x5,High-quality boots from BrandC,2019-01-20
+92,BrandA Bicycle,4,BrandA,222.12,103.09,145,7.97,19x40x4,High-quality bicycle from BrandA,2021-02-28
+93,Deluxe Jacket,2,Deluxe,54.25,25.24,143,2.85,43x47x4,High-quality jacket from Deluxe,2021-05-13
+94,Premium Tire Gauge,8,Premium,124.81,57.34,12,8.05,36x7x10,High-quality tire gauge from Premium,2021-05-12
+95,BrandB Car Mat,8,BrandB,76.13,44.19,151,3.89,41x6x11,High-quality car mat from BrandB,2019-02-06
+96,Deluxe Lamp,3,Deluxe,494.22,332.85,72,1.4,30x7x19,High-quality lamp from Deluxe,2021-12-16
+97,Premium Smartphone,1,Premium,1307.31,550.16,24,8.32,31x24x10,High-quality smartphone from Premium,2020-10-11
+98,Basic Science Textbook,5,Basic,13.19,8.34,126,6.16,30x24x24,High-quality science textbook from Basic,2021-07-19
+99,BrandB Protein Bar,9,BrandB,42.94,29.26,26,0.39,8x5x6,High-quality protein bar from BrandB,2019-08-04
+100,Basic Garden Hose,3,Basic,128.64,54.85,185,9.03,28x39x2,High-quality garden hose from Basic,2019-04-18
+101,BrandA Jacket,2,BrandA,35.5,24.29,19,2.71,49x44x14,High-quality jacket from BrandA,2020-07-06
+102,BrandC Air Freshener,8,BrandC,93.77,40.88,81,8.63,42x31x22,High-quality air freshener from BrandC,2021-07-04
+103,BrandB Tent,4,BrandB,168.49,79.55,122,6.65,22x25x25,High-quality tent from BrandB,2021-09-15
+104,BrandB Air Freshener,8,BrandB,50.61,24.74,21,3.59,20x47x22,High-quality air freshener from BrandB,2020-02-26
+105,BrandB Tent,4,BrandB,45.66,25.04,54,0.23,18x34x14,High-quality tent from BrandB,2020-01-20
+106,BrandB Hat,2,BrandB,77.98,50.23,194,5.32,25x24x24,High-quality hat from BrandB,2021-07-18
+107,Standard Sketchbook,10,Standard,15.08,6.62,93,3.92,33x44x18,High-quality sketchbook from Standard,2020-02-20
+108,BrandD Backpack,4,BrandD,43.88,23.12,175,3.14,41x46x5,High-quality backpack from BrandD,2019-10-29
+109,BrandB Toy Car,7,BrandB,62.66,29.59,117,1.95,6x35x23,High-quality toy car from BrandB,2021-12-23
+110,Premium Tire Gauge,8,Premium,50.85,34.48,21,3.61,18x14x14,High-quality tire gauge from Premium,2021-10-25
+111,Standard Perfume,6,Standard,38.7,20.6,94,1.07,46x29x25,High-quality perfume from Standard,2021-05-15
+112,BrandE Cookbook,5,BrandE,17.58,7.96,70,5.34,36x38x15,High-quality cookbook from BrandE,2019-08-12
+113,BrandD Coffee Beans,9,BrandD,48.15,22.43,13,8.96,41x22x9,High-quality coffee beans from BrandD,2019-05-15
+114,BrandB Bedding Set,3,BrandB,152.22,101.19,179,7.19,30x30x5,High-quality bedding set from BrandB,2020-03-26
+115,Elite Craft Paper,10,Elite,21.78,13.85,88,6.41,50x43x11,High-quality craft paper from Elite,2019-01-07
+116,BrandC Laptop,1,BrandC,1031.32,629.25,122,7.42,49x20x7,High-quality laptop from BrandC,2020-10-07
+117,BrandB Tent,4,BrandB,70.83,35.39,116,1.5,5x47x17,High-quality tent from BrandB,2021-05-26
+118,BrandA Speaker,1,BrandA,396.15,189.82,19,1.79,5x43x13,High-quality speaker from BrandA,2021-08-28
+119,BrandA Bedding Set,3,BrandA,254.39,120.65,28,0.55,6x41x23,High-quality bedding set from BrandA,2020-08-18
+120,Standard Sketchbook,10,Standard,41.71,26.13,198,1.03,24x26x16,High-quality sketchbook from Standard,2021-10-01
+121,Standard Chocolate,9,Standard,16.58,9.05,93,4.64,27x24x24,High-quality chocolate from Standard,2020-11-14
+122,Deluxe Water Bottle,4,Deluxe,158.2,76.09,132,7.31,6x14x15,High-quality water bottle from Deluxe,2020-03-27
+123,Premium Tea Set,9,Premium,27.4,12.97,189,6.99,32x28x8,High-quality tea set from Premium,2019-07-02
+124,Basic Sweater,2,Basic,133.17,91.84,160,6.82,33x38x7,High-quality sweater from Basic,2020-06-27
+125,Premium Speaker,1,Premium,812.5,426.72,70,3.16,7x42x18,High-quality speaker from Premium,2020-12-04
+126,BrandB Makeup Kit,6,BrandB,47.88,25.69,88,2.96,5x36x23,High-quality makeup kit from BrandB,2019-10-29
+127,BrandC Hat,2,BrandC,111.79,54.43,142,6.68,24x36x11,High-quality hat from BrandC,2019-05-13
+128,BrandA Craft Paper,10,BrandA,38.41,17.87,151,1.32,36x24x2,High-quality craft paper from BrandA,2021-05-31
+129,BrandA Chocolate,9,BrandA,7.25,3.2,72,7.87,37x47x19,High-quality chocolate from BrandA,2019-11-14
+130,BrandE Jeans,2,BrandE,41.39,25.66,110,5.89,10x23x9,High-quality jeans from BrandE,2019-03-07
+131,Premium Protein Bar,9,Premium,16.19,9.77,98,4.28,11x21x11,High-quality protein bar from Premium,2020-09-28
+132,Deluxe Action Figure,7,Deluxe,41.64,27.6,148,1.48,17x21x6,High-quality action figure from Deluxe,2021-05-02
+133,BrandD Self-Help Book,5,BrandD,22.04,9.38,145,9.28,34x39x7,High-quality self-help book from BrandD,2021-02-08
+134,BrandB Biography,5,BrandB,15.54,8.28,80,5.09,48x50x13,High-quality biography from BrandB,2021-08-17
+135,Basic Science Textbook,5,Basic,28.66,19.73,118,0.37,40x6x15,High-quality science textbook from Basic,2019-07-01
+136,Deluxe Sketchbook,10,Deluxe,68.76,43.73,148,5.17,13x44x19,High-quality sketchbook from Deluxe,2020-08-23
+137,Basic Running Shoes,4,Basic,59.63,35.84,118,8.09,38x34x3,High-quality running shoes from Basic,2019-06-23
+138,BrandE Board Game,7,BrandE,68.43,40.71,85,5.98,23x41x17,High-quality board game from BrandE,2020-11-09
+139,BrandB Coffee Beans,9,BrandB,38.32,23.08,189,7.2,49x18x18,High-quality coffee beans from BrandB,2019-10-23
+140,BrandC Glue Set,10,BrandC,22.98,13.85,39,3.08,24x5x17,High-quality glue set from BrandC,2020-02-16
+141,BrandB Running Shoes,4,BrandB,25.01,14.53,30,5.25,20x18x5,High-quality running shoes from BrandB,2021-08-28
+142,Standard T-Shirt,2,Standard,97.11,40.47,31,3.07,35x16x9,High-quality t-shirt from Standard,2020-06-17
+143,Elite Bedding Set,3,Elite,432.47,253.06,110,1.55,6x16x6,High-quality bedding set from Elite,2020-05-07
+144,Standard Air Freshener,8,Standard,115.12,64.93,121,4.86,23x47x5,High-quality air freshener from Standard,2021-10-06
+145,BrandE Sneakers,2,BrandE,87.37,53.23,27,4.69,32x14x2,High-quality sneakers from BrandE,2020-08-03
+146,BrandB Toy Car,7,BrandB,50.37,20.31,77,0.44,46x47x21,High-quality toy car from BrandB,2021-06-29
+147,Premium Running Shoes,4,Premium,289.77,156.58,185,4.64,5x15x13,High-quality running shoes from Premium,2021-10-22
+148,Premium Tablet,1,Premium,1809.97,1009.09,131,0.72,46x14x13,High-quality tablet from Premium,2020-11-25
+149,BrandC Perfume,6,BrandC,33.61,21.13,77,9.24,9x46x17,High-quality perfume from BrandC,2021-02-10
+150,Deluxe Perfume,6,Deluxe,68.63,39.31,129,7.78,38x21x6,High-quality perfume from Deluxe,2020-10-25
+151,Deluxe Doll,7,Deluxe,35.67,20.88,103,0.77,6x15x9,High-quality doll from Deluxe,2019-07-17
+152,Elite Paint Set,10,Elite,70.59,38.32,194,2.39,20x11x7,High-quality paint set from Elite,2021-02-25
+153,BrandB Tire Gauge,8,BrandB,23.36,11.1,9,8.48,9x33x13,High-quality tire gauge from BrandB,2019-03-02
+154,Premium Shampoo,6,Premium,17.9,9.57,34,9.89,41x40x8,High-quality shampoo from Premium,2020-02-05
+155,Elite Chocolate,9,Elite,24.69,12.0,51,7.45,32x38x8,High-quality chocolate from Elite,2019-06-26
+156,BrandB Smartphone,1,BrandB,446.9,287.36,1,3.66,31x41x19,High-quality smartphone from BrandB,2019-05-28
+157,BrandC Bicycle,4,BrandC,212.65,146.16,186,6.46,36x17x8,High-quality bicycle from BrandC,2021-08-28
+158,Premium Bedding Set,3,Premium,191.11,128.03,35,8.04,33x32x22,High-quality bedding set from Premium,2021-02-09
+159,Deluxe Face Cream,6,Deluxe,15.19,9.64,76,1.1,36x19x3,High-quality face cream from Deluxe,2020-11-08
+160,BrandD Paint Set,10,BrandD,63.03,30.69,64,3.97,27x9x7,High-quality paint set from BrandD,2020-08-12
+161,Standard Running Shoes,4,Standard,183.22,120.18,156,5.05,30x44x3,High-quality running shoes from Standard,2019-08-16
+162,BrandE Glue Set,10,BrandE,51.77,21.21,107,2.68,26x8x6,High-quality glue set from BrandE,2020-02-23
+163,Premium Bedding Set,3,Premium,463.6,277.7,15,2.43,9x41x21,High-quality bedding set from Premium,2019-03-14
+164,BrandB Phone Mount,8,BrandB,143.24,83.0,156,9.3,40x35x6,High-quality phone mount from BrandB,2020-07-08
+165,BrandB Paint Set,10,BrandB,10.39,5.74,166,3.57,35x24x9,High-quality paint set from BrandB,2019-02-13
+166,BrandA Coffee Beans,9,BrandA,39.81,25.61,136,6.12,29x48x23,High-quality coffee beans from BrandA,2019-02-07
+167,BrandA Tire Gauge,8,BrandA,67.26,34.52,32,4.35,32x40x6,High-quality tire gauge from BrandA,2019-08-25
+168,BrandB Glue Set,10,BrandB,68.11,47.32,94,3.58,26x32x3,High-quality glue set from BrandB,2020-05-02
+169,BrandB Yoga Mat,4,BrandB,186.87,87.48,191,7.55,39x41x3,High-quality yoga mat from BrandB,2019-01-31
+170,BrandA Tea Set,9,BrandA,8.45,3.7,46,2.9,25x27x21,High-quality tea set from BrandA,2020-05-15
+171,BrandC Jacket,2,BrandC,127.13,69.11,31,6.6,9x21x19,High-quality jacket from BrandC,2020-02-26
+172,Premium Plant Pot,3,Premium,450.87,296.5,113,7.16,28x40x11,High-quality plant pot from Premium,2020-05-15
+173,BrandE Water Bottle,4,BrandE,112.69,63.38,26,0.63,31x50x21,High-quality water bottle from BrandE,2021-09-22
+174,BrandB Bicycle,4,BrandB,80.98,35.72,133,2.38,40x18x5,High-quality bicycle from BrandB,2021-02-01
+175,BrandA Headphones,1,BrandA,1956.92,1192.75,166,7.67,12x6x17,High-quality headphones from BrandA,2019-03-11
+176,BrandE Phone Mount,8,BrandE,94.41,46.27,21,0.69,44x29x17,High-quality phone mount from BrandE,2019-02-08
+177,Basic Tire Gauge,8,Basic,74.94,35.02,97,1.93,32x39x3,High-quality tire gauge from Basic,2020-09-16
+178,Standard Coffee Maker,3,Standard,386.24,263.09,155,7.57,26x21x20,High-quality coffee maker from Standard,2020-03-19
+179,Premium Running Shoes,4,Premium,224.59,131.71,109,7.85,8x11x19,High-quality running shoes from Premium,2021-03-05
+180,BrandE Lamp,3,BrandE,432.09,294.42,118,4.3,41x38x10,High-quality lamp from BrandE,2019-11-29
+181,Elite Glue Set,10,Elite,57.96,39.26,33,9.09,22x48x10,High-quality glue set from Elite,2019-06-25
+182,Standard Tea Set,9,Standard,18.31,10.46,9,6.19,28x22x23,High-quality tea set from Standard,2020-05-28
+183,BrandA Doll,7,BrandA,20.45,11.67,82,8.38,16x33x16,High-quality doll from BrandA,2019-02-05
+184,BrandA Perfume,6,BrandA,50.91,35.12,122,6.41,40x18x15,High-quality perfume from BrandA,2019-04-30
+185,BrandE Paint Set,10,BrandE,68.1,38.51,16,4.46,21x22x10,High-quality paint set from BrandE,2021-10-10
+186,BrandD Cookbook,5,BrandD,35.21,15.64,158,6.59,19x12x22,High-quality cookbook from BrandD,2019-03-20
+187,Standard Air Freshener,8,Standard,131.18,75.29,10,5.58,19x8x24,High-quality air freshener from Standard,2020-06-14
+188,BrandA Puzzle,7,BrandA,58.13,38.21,90,5.45,7x43x9,High-quality puzzle from BrandA,2020-12-17
+189,BrandB Fiction Novel,5,BrandB,30.28,13.14,19,2.45,25x41x13,High-quality fiction novel from BrandB,2021-05-01
+190,Basic Fiction Novel,5,Basic,45.03,19.94,83,6.11,28x26x15,High-quality fiction novel from Basic,2021-02-06
+191,BrandE Glue Set,10,BrandE,49.67,22.26,11,2.98,14x42x2,High-quality glue set from BrandE,2019-08-06
+192,Premium Sketchbook,10,Premium,42.22,26.78,130,7.86,50x27x8,High-quality sketchbook from Premium,2021-02-14
+193,BrandA Doll,7,BrandA,56.68,25.22,195,9.98,10x9x9,High-quality doll from BrandA,2021-10-28
+194,Standard Protein Bar,9,Standard,37.99,24.86,135,8.0,43x35x23,High-quality protein bar from Standard,2021-12-10
+195,Elite Bedding Set,3,Elite,172.13,78.92,147,3.0,20x26x9,High-quality bedding set from Elite,2021-01-11
+196,Elite Shampoo,6,Elite,36.96,25.57,177,2.49,31x28x4,High-quality shampoo from Elite,2020-12-21
+197,Premium Jeans,2,Premium,135.87,79.02,114,7.88,19x41x6,High-quality jeans from Premium,2020-05-16
+198,Deluxe Tire Gauge,8,Deluxe,104.9,61.02,73,3.48,12x10x15,High-quality tire gauge from Deluxe,2021-05-12
+199,BrandC Self-Help Book,5,BrandC,33.04,19.49,197,2.06,16x34x2,High-quality self-help book from BrandC,2019-12-08
+200,Basic Car Mat,8,Basic,50.56,28.64,120,7.45,13x7x15,High-quality car mat from Basic,2019-02-19
+201,BrandB Shampoo,6,BrandB,20.18,13.32,99,9.05,27x13x14,High-quality shampoo from BrandB,2020-05-09
+202,BrandB Chocolate,9,BrandB,20.16,13.05,86,5.96,44x11x25,High-quality chocolate from BrandB,2019-04-03
+203,Premium Laptop,1,Premium,1902.34,1280.66,161,4.55,32x23x17,High-quality laptop from Premium,2019-10-03
+204,Deluxe Cookbook,5,Deluxe,46.65,31.77,21,1.61,5x42x20,High-quality cookbook from Deluxe,2021-01-27
+205,Basic Protein Bar,9,Basic,19.42,8.8,184,5.92,11x19x11,High-quality protein bar from Basic,2021-10-07
+206,BrandA Craft Paper,10,BrandA,45.8,30.65,148,5.13,32x23x12,High-quality craft paper from BrandA,2021-02-25
+207,BrandC Puzzle,7,BrandC,76.84,31.7,188,8.84,18x32x18,High-quality puzzle from BrandC,2020-07-23
+208,Deluxe Water Bottle,4,Deluxe,111.45,56.19,42,1.27,22x36x16,High-quality water bottle from Deluxe,2020-04-03
+209,BrandE Sketchbook,10,BrandE,70.93,33.89,155,7.56,19x47x10,High-quality sketchbook from BrandE,2019-10-16
+210,BrandD Jeans,2,BrandD,117.15,64.74,43,0.37,7x39x19,High-quality jeans from BrandD,2020-02-04
+211,Elite Car Mat,8,Elite,127.39,51.94,52,2.89,41x32x25,High-quality car mat from Elite,2021-06-30
+212,BrandC Self-Help Book,5,BrandC,43.24,21.12,28,7.19,12x33x15,High-quality self-help book from BrandC,2021-10-07
+213,BrandB Craft Paper,10,BrandB,65.92,46.01,187,6.72,27x10x25,High-quality craft paper from BrandB,2020-03-31
+214,Premium Paint Set,10,Premium,18.5,9.26,116,6.34,37x48x4,High-quality paint set from Premium,2020-10-06
+215,Basic Fiction Novel,5,Basic,14.02,8.57,133,3.24,40x47x22,High-quality fiction novel from Basic,2019-03-14
+216,BrandD Smartphone,1,BrandD,316.91,162.53,56,6.77,21x35x6,High-quality smartphone from BrandD,2021-09-19
+217,Elite Yoga Mat,4,Elite,102.71,47.2,22,9.51,18x5x15,High-quality yoga mat from Elite,2019-05-18
+218,Standard Biography,5,Standard,34.45,21.12,9,4.24,21x44x14,High-quality biography from Standard,2020-04-25
+219,Elite Science Textbook,5,Elite,31.22,21.43,76,8.42,23x47x17,High-quality science textbook from Elite,2021-09-30
+220,Deluxe Protein Bar,9,Deluxe,21.07,11.47,24,2.27,23x31x16,High-quality protein bar from Deluxe,2020-10-28
+221,Basic Yoga Mat,4,Basic,56.85,30.67,81,6.64,27x49x14,High-quality yoga mat from Basic,2019-09-20
+222,Elite Monitor,1,Elite,1222.06,740.77,7,2.98,37x18x15,High-quality monitor from Elite,2019-05-05
+223,BrandE Chocolate,9,BrandE,35.37,18.51,113,4.31,21x8x10,High-quality chocolate from BrandE,2021-09-21
+224,Premium Sketchbook,10,Premium,50.63,20.95,114,4.16,41x15x19,High-quality sketchbook from Premium,2020-02-27
+225,Deluxe Car Mat,8,Deluxe,97.45,42.76,138,0.3,6x29x4,High-quality car mat from Deluxe,2020-11-13
+226,Standard Speaker,1,Standard,173.76,72.07,53,3.68,17x15x19,High-quality speaker from Standard,2021-03-21
+227,BrandE Tablet,1,BrandE,1612.51,1085.54,84,4.19,40x20x2,High-quality tablet from BrandE,2019-03-15
+228,Standard Smartphone,1,Standard,249.92,129.8,124,0.52,23x24x2,High-quality smartphone from Standard,2020-04-16
+229,BrandA Air Freshener,8,BrandA,51.78,22.63,200,3.84,30x13x25,High-quality air freshener from BrandA,2020-07-06
+230,BrandB Paint Set,10,BrandB,12.95,7.99,195,7.35,6x5x25,High-quality paint set from BrandB,2019-11-07
+231,Deluxe Laptop,1,Deluxe,1595.61,731.24,155,8.61,25x32x18,High-quality laptop from Deluxe,2019-02-17
+232,BrandE Puzzle,7,BrandE,43.21,18.58,167,5.8,29x23x15,High-quality puzzle from BrandE,2019-07-10
+233,Basic Tablet,1,Basic,1143.94,623.45,179,5.38,20x29x2,High-quality tablet from Basic,2021-10-14
+234,Premium Glue Set,10,Premium,59.1,36.31,115,2.32,6x30x9,High-quality glue set from Premium,2021-07-04
+235,Elite Science Textbook,5,Elite,32.53,19.29,85,1.52,45x10x5,High-quality science textbook from Elite,2019-12-13
+236,Elite Tablet,1,Elite,1207.15,513.24,103,6.2,35x38x25,High-quality tablet from Elite,2020-04-21
+237,Elite Paint Set,10,Elite,24.89,12.28,86,8.36,7x25x24,High-quality paint set from Elite,2021-04-12
+238,BrandE Paint Set,10,BrandE,54.26,33.99,125,5.5,25x46x9,High-quality paint set from BrandE,2020-10-21
+239,Elite Protein Bar,9,Elite,28.15,18.51,187,0.91,11x32x24,High-quality protein bar from Elite,2019-06-08
+240,BrandC Perfume,6,BrandC,77.63,34.83,191,1.3,17x33x5,High-quality perfume from BrandC,2019-03-21
+241,Elite Plant Pot,3,Elite,101.95,65.34,124,1.48,40x31x14,High-quality plant pot from Elite,2019-01-19
+242,BrandB Smart Watch,1,BrandB,899.18,439.04,173,2.78,25x44x13,High-quality smart watch from BrandB,2019-12-06
+243,BrandE Shampoo,6,BrandE,56.14,25.9,157,9.52,28x38x21,High-quality shampoo from BrandE,2020-05-29
+244,Elite Toy Car,7,Elite,26.32,13.14,191,7.23,13x15x18,High-quality toy car from Elite,2021-08-28
+245,Premium Car Mat,8,Premium,71.2,31.69,17,9.93,5x24x24,High-quality car mat from Premium,2020-01-20
+246,BrandB Tablet,1,BrandB,1098.58,548.53,15,6.29,43x15x4,High-quality tablet from BrandB,2020-12-18
+247,BrandD Self-Help Book,5,BrandD,23.8,9.62,49,2.82,32x42x25,High-quality self-help book from BrandD,2020-09-18
+248,Deluxe Bicycle,4,Deluxe,235.92,160.49,143,5.46,47x17x4,High-quality bicycle from Deluxe,2019-11-09
+249,BrandD Coffee Beans,9,BrandD,17.6,8.43,26,1.35,38x42x22,High-quality coffee beans from BrandD,2021-02-23
+250,Deluxe Science Textbook,5,Deluxe,40.88,23.61,70,9.67,44x47x17,High-quality science textbook from Deluxe,2020-03-04
+251,BrandA Dress,2,BrandA,159.92,111.42,23,9.3,44x14x6,High-quality dress from BrandA,2019-12-04
+252,BrandA Plant Pot,3,BrandA,175.2,117.17,13,1.46,33x32x23,High-quality plant pot from BrandA,2021-08-24
+253,BrandE Phone Mount,8,BrandE,82.55,35.92,143,3.99,29x50x17,High-quality phone mount from BrandE,2020-12-28
+254,Standard Chocolate,9,Standard,19.26,8.16,154,8.44,15x45x10,High-quality chocolate from Standard,2019-10-20
+255,Standard Boots,2,Standard,96.7,58.84,64,6.89,40x32x22,High-quality boots from Standard,2020-12-14
+256,BrandA Dress,2,BrandA,175.24,115.06,197,6.73,32x18x21,High-quality dress from BrandA,2020-01-27
+257,Premium Protein Bar,9,Premium,13.06,8.15,2,2.04,28x38x8,High-quality protein bar from Premium,2019-01-12
+258,BrandE Doll,7,BrandE,34.33,23.11,64,5.08,5x43x10,High-quality doll from BrandE,2019-03-10
+259,Elite Vitamins,6,Elite,44.64,31.19,180,2.61,45x8x20,High-quality vitamins from Elite,2019-03-04
+260,Deluxe Glue Set,10,Deluxe,50.36,27.55,121,7.52,46x39x5,High-quality glue set from Deluxe,2019-03-20
+261,BrandA Vitamins,6,BrandA,64.39,39.54,180,7.39,13x10x15,High-quality vitamins from BrandA,2019-09-02
+262,Elite Board Game,7,Elite,55.35,23.17,24,8.59,22x17x22,High-quality board game from Elite,2019-02-04
+263,Premium Speaker,1,Premium,1800.59,811.64,150,7.25,28x38x2,High-quality speaker from Premium,2021-04-05
+264,BrandA Plant Pot,3,BrandA,51.18,33.14,128,1.56,22x10x7,High-quality plant pot from BrandA,2021-06-27
+265,BrandE Running Shoes,4,BrandE,192.35,116.68,104,1.81,5x24x10,High-quality running shoes from BrandE,2020-12-19
+266,Premium Coffee Maker,3,Premium,243.8,158.67,22,5.71,34x10x5,High-quality coffee maker from Premium,2019-07-05
+267,BrandB Vacuum Cleaner,3,BrandB,109.12,63.0,5,7.69,5x18x22,High-quality vacuum cleaner from BrandB,2021-02-06
+268,BrandB Plant Pot,3,BrandB,441.06,301.23,78,8.39,46x17x25,High-quality plant pot from BrandB,2019-09-29
+269,BrandA Craft Paper,10,BrandA,33.41,16.24,71,1.49,25x31x9,High-quality craft paper from BrandA,2020-01-21
+270,BrandD Science Textbook,5,BrandD,17.08,8.34,178,4.45,10x36x13,High-quality science textbook from BrandD,2021-01-14
+271,Standard Bicycle,4,Standard,148.66,87.61,43,0.46,42x29x6,High-quality bicycle from Standard,2020-03-07
+272,Basic Tent,4,Basic,120.4,77.45,73,2.15,49x37x19,High-quality tent from Basic,2020-07-04
+273,Standard Laptop,1,Standard,1558.15,743.96,119,2.68,12x38x23,High-quality laptop from Standard,2020-01-17
+274,BrandC Tire Gauge,8,BrandC,78.08,38.8,144,3.84,42x7x12,High-quality tire gauge from BrandC,2019-08-03
+275,BrandA Sneakers,2,BrandA,44.37,24.08,86,6.51,11x16x13,High-quality sneakers from BrandA,2020-09-19
+276,Elite Sketchbook,10,Elite,44.63,27.92,112,8.11,34x42x20,High-quality sketchbook from Elite,2021-06-09
+277,Elite Camera,1,Elite,1676.49,797.63,95,6.05,35x48x14,High-quality camera from Elite,2020-09-06
+278,BrandD Coffee Beans,9,BrandD,39.34,26.37,129,1.17,32x22x20,High-quality coffee beans from BrandD,2021-03-31
+279,BrandA Self-Help Book,5,BrandA,16.56,7.45,76,8.88,49x38x8,High-quality self-help book from BrandA,2019-10-13
+280,Premium Yoga Mat,4,Premium,241.86,100.65,23,3.16,14x27x16,High-quality yoga mat from Premium,2021-03-21
+281,Elite Action Figure,7,Elite,12.06,5.36,44,3.08,10x16x9,High-quality action figure from Elite,2020-02-21
+282,BrandB Plant Pot,3,BrandB,367.58,164.03,142,8.47,28x5x17,High-quality plant pot from BrandB,2019-11-23
+283,BrandB Chocolate,9,BrandB,26.19,15.87,178,2.2,35x47x14,High-quality chocolate from BrandB,2021-08-07
+284,BrandB Tea Set,9,BrandB,22.44,11.12,34,4.06,25x23x23,High-quality tea set from BrandB,2021-05-19
+285,Basic Self-Help Book,5,Basic,31.36,15.81,171,7.43,42x6x9,High-quality self-help book from Basic,2019-12-31
+286,Premium Tea Set,9,Premium,21.3,11.72,0,6.14,30x9x22,High-quality tea set from Premium,2020-04-16
+287,Elite Tea Set,9,Elite,13.46,6.24,111,1.02,29x46x7,High-quality tea set from Elite,2021-05-21
+288,BrandE Headphones,1,BrandE,656.63,395.67,123,0.44,31x16x7,High-quality headphones from BrandE,2021-03-26
+289,Elite Laptop,1,Elite,1622.15,817.38,187,1.1,30x5x7,High-quality laptop from Elite,2020-10-15
+290,Deluxe Vacuum Cleaner,3,Deluxe,263.35,159.56,2,4.91,47x30x15,High-quality vacuum cleaner from Deluxe,2019-04-22
+291,Basic Jacket,2,Basic,62.85,37.1,154,8.09,33x37x13,High-quality jacket from Basic,2021-08-27
+292,Premium Lamp,3,Premium,425.2,294.04,28,7.88,32x39x14,High-quality lamp from Premium,2019-06-13
+293,BrandA Dress,2,BrandA,77.37,52.63,151,2.65,37x44x25,High-quality dress from BrandA,2021-07-20
+294,BrandA Camera,1,BrandA,956.29,393.95,125,4.66,8x43x23,High-quality camera from BrandA,2021-01-26
+295,Basic Vitamins,6,Basic,39.05,19.09,6,5.47,16x23x13,High-quality vitamins from Basic,2021-05-04
+296,Elite Coffee Beans,9,Elite,19.61,11.59,152,1.21,7x39x25,High-quality coffee beans from Elite,2021-03-22
+297,BrandC Shampoo,6,BrandC,15.73,6.74,186,1.53,36x32x10,High-quality shampoo from BrandC,2020-12-08
+298,Deluxe Plant Pot,3,Deluxe,137.17,88.84,187,8.22,41x34x3,High-quality plant pot from Deluxe,2019-06-06
+299,Premium Craft Paper,10,Premium,10.57,6.16,185,6.41,11x29x18,High-quality craft paper from Premium,2019-06-11
+300,BrandE Speaker,1,BrandE,873.93,355.44,191,2.64,46x10x15,High-quality speaker from BrandE,2019-08-27
+301,Deluxe Tablet,1,Deluxe,558.9,274.4,131,5.44,20x49x3,High-quality tablet from Deluxe,2021-02-05
+302,Elite Water Bottle,4,Elite,84.18,57.3,70,7.49,16x22x18,High-quality water bottle from Elite,2019-04-04
+303,Basic Makeup Kit,6,Basic,91.7,55.34,69,0.15,18x6x15,High-quality makeup kit from Basic,2019-09-23
+304,BrandE Smart Watch,1,BrandE,951.76,606.34,162,3.25,19x19x2,High-quality smart watch from BrandE,2020-10-26
+305,BrandB Shampoo,6,BrandB,64.25,39.74,155,8.29,42x31x22,High-quality shampoo from BrandB,2020-11-04
+306,Basic Water Bottle,4,Basic,155.79,88.38,87,3.47,27x33x6,High-quality water bottle from Basic,2021-08-04
+307,BrandD Glue Set,10,BrandD,43.66,19.69,99,2.63,7x47x20,High-quality glue set from BrandD,2019-06-10
+308,Standard Hat,2,Standard,197.22,83.8,191,9.85,28x24x11,High-quality hat from Standard,2020-10-07
+309,Elite Hat,2,Elite,20.47,12.03,42,6.28,41x32x15,High-quality hat from Elite,2019-02-17
+310,Standard Chocolate,9,Standard,38.48,26.82,96,9.22,13x29x21,High-quality chocolate from Standard,2019-09-10
+311,Basic Laptop,1,Basic,475.7,331.87,146,2.96,15x30x19,High-quality laptop from Basic,2021-04-16
+312,BrandD Chocolate,9,BrandD,23.82,13.81,81,7.73,45x11x23,High-quality chocolate from BrandD,2020-10-12
+313,Standard Water Bottle,4,Standard,171.44,80.15,103,5.0,34x23x16,High-quality water bottle from Standard,2019-11-18
+314,Basic Vacuum Cleaner,3,Basic,158.44,88.69,85,7.65,46x16x23,High-quality vacuum cleaner from Basic,2019-07-21
+315,Deluxe Camera,1,Deluxe,1323.55,916.26,105,1.97,6x44x9,High-quality camera from Deluxe,2019-10-11
+316,Deluxe Self-Help Book,5,Deluxe,30.13,12.78,146,7.35,6x25x21,High-quality self-help book from Deluxe,2020-05-26
+317,Deluxe Cookbook,5,Deluxe,35.02,21.2,94,0.32,43x46x14,High-quality cookbook from Deluxe,2021-11-13
+318,BrandC Shampoo,6,BrandC,50.11,30.91,61,1.83,50x17x12,High-quality shampoo from BrandC,2019-09-29
+319,BrandB Smart Watch,1,BrandB,1794.17,829.09,118,4.65,48x43x16,High-quality smart watch from BrandB,2020-05-10
+320,Elite Air Freshener,8,Elite,82.53,35.76,154,8.39,15x20x16,High-quality air freshener from Elite,2019-05-24
+321,BrandA Coffee Beans,9,BrandA,35.69,18.63,133,9.96,29x9x15,High-quality coffee beans from BrandA,2020-06-16
+322,Deluxe Jeans,2,Deluxe,134.71,75.47,6,4.44,8x23x14,High-quality jeans from Deluxe,2019-03-23
+323,Basic Speaker,1,Basic,1447.42,801.1,166,4.46,12x11x6,High-quality speaker from Basic,2020-06-21
+324,BrandB Makeup Kit,6,BrandB,74.42,37.95,168,3.46,20x35x8,High-quality makeup kit from BrandB,2020-06-25
+325,Premium Coffee Beans,9,Premium,33.89,14.31,181,4.97,20x21x12,High-quality coffee beans from Premium,2020-08-27
+326,Premium Perfume,6,Premium,80.44,49.06,145,2.83,7x13x6,High-quality perfume from Premium,2021-12-04
+327,BrandA Garden Hose,3,BrandA,126.09,64.46,92,7.17,24x50x7,High-quality garden hose from BrandA,2020-09-16
+328,Elite Glue Set,10,Elite,53.11,23.7,177,1.37,43x23x14,High-quality glue set from Elite,2020-06-10
+329,BrandA Tea Set,9,BrandA,43.29,24.89,37,5.88,21x28x25,High-quality tea set from BrandA,2021-11-07
+330,Basic Doll,7,Basic,44.43,29.77,88,6.47,42x37x12,High-quality doll from Basic,2021-12-07
+331,Basic Craft Paper,10,Basic,65.98,36.0,43,8.72,35x16x17,High-quality craft paper from Basic,2021-02-16
+332,BrandB Coffee Beans,9,BrandB,20.41,10.06,57,1.59,43x12x22,High-quality coffee beans from BrandB,2020-02-08
+333,Elite Garden Hose,3,Elite,240.47,162.03,3,8.42,38x19x25,High-quality garden hose from Elite,2020-02-19
+334,BrandA Chocolate,9,BrandA,22.93,9.85,84,5.12,22x40x19,High-quality chocolate from BrandA,2019-06-12
+335,Elite Paint Set,10,Elite,45.97,21.81,65,7.99,16x49x22,High-quality paint set from Elite,2020-05-16
+336,Elite Tea Set,9,Elite,12.98,9.01,68,5.56,10x17x25,High-quality tea set from Elite,2019-05-11
+337,Standard Dress,2,Standard,71.01,32.83,62,5.9,42x35x16,High-quality dress from Standard,2019-07-21
+338,BrandA Bedding Set,3,BrandA,173.05,102.13,50,4.84,33x10x17,High-quality bedding set from BrandA,2020-02-09
+339,Standard Running Shoes,4,Standard,187.08,108.41,76,5.74,42x32x5,High-quality running shoes from Standard,2021-06-25
+340,Deluxe Tea Set,9,Deluxe,41.26,24.11,116,9.92,21x31x21,High-quality tea set from Deluxe,2020-07-08
+341,BrandC Tire Gauge,8,BrandC,59.37,32.36,72,9.52,24x21x19,High-quality tire gauge from BrandC,2020-05-24
+342,BrandE Vitamins,6,BrandE,70.36,38.76,160,4.46,16x36x2,High-quality vitamins from BrandE,2020-10-15
+343,Elite Hat,2,Elite,45.18,18.96,110,6.76,11x33x12,High-quality hat from Elite,2020-01-10
+344,BrandB Tea Set,9,BrandB,39.33,18.25,128,3.12,38x35x5,High-quality tea set from BrandB,2020-09-06
+345,Deluxe Tea Set,9,Deluxe,35.23,17.51,49,7.69,15x15x21,High-quality tea set from Deluxe,2019-11-18
+346,Standard Puzzle,7,Standard,78.72,46.92,106,7.82,22x19x10,High-quality puzzle from Standard,2021-08-24
+347,Premium Phone Mount,8,Premium,34.57,17.29,90,8.31,25x33x11,High-quality phone mount from Premium,2021-05-21
+348,Basic Protein Bar,9,Basic,5.26,3.59,14,9.69,27x46x6,High-quality protein bar from Basic,2021-07-24
+349,BrandA Puzzle,7,BrandA,67.66,31.17,169,7.2,23x28x2,High-quality puzzle from BrandA,2020-10-21
+350,Basic Glue Set,10,Basic,29.82,16.94,51,7.99,44x37x16,High-quality glue set from Basic,2020-07-15
+351,BrandB Car Mat,8,BrandB,47.82,23.8,122,9.42,42x35x3,High-quality car mat from BrandB,2021-03-09
+352,BrandD Biography,5,BrandD,21.21,12.34,96,0.69,8x45x12,High-quality biography from BrandD,2020-07-19
+353,Elite Phone Mount,8,Elite,139.69,60.53,34,8.82,9x25x25,High-quality phone mount from Elite,2021-04-27
+354,BrandC Headphones,1,BrandC,1200.13,686.75,143,0.97,20x25x20,High-quality headphones from BrandC,2020-06-17
+355,Standard Self-Help Book,5,Standard,42.69,25.91,35,7.74,9x49x24,High-quality self-help book from Standard,2020-10-04
+356,Elite Garden Hose,3,Elite,378.69,175.88,82,4.74,34x28x12,High-quality garden hose from Elite,2020-02-12
+357,BrandE Lamp,3,BrandE,142.57,89.01,5,1.49,46x31x15,High-quality lamp from BrandE,2021-03-22
+358,BrandA Toy Car,7,BrandA,68.55,28.66,131,3.8,41x32x3,High-quality toy car from BrandA,2021-10-29
+359,Standard Vitamins,6,Standard,53.26,30.49,162,0.76,9x41x4,High-quality vitamins from Standard,2019-08-19
+360,BrandC Self-Help Book,5,BrandC,41.94,27.42,22,5.78,34x44x22,High-quality self-help book from BrandC,2020-01-26
+361,Basic Board Game,7,Basic,67.61,36.49,189,1.61,26x9x7,High-quality board game from Basic,2020-11-26
+362,Standard Glue Set,10,Standard,60.33,37.52,110,8.91,30x41x11,High-quality glue set from Standard,2019-01-14
+363,Basic Water Bottle,4,Basic,30.19,14.12,109,1.59,19x42x23,High-quality water bottle from Basic,2020-10-30
+364,BrandD Hat,2,BrandD,157.44,90.11,90,8.94,50x41x6,High-quality hat from BrandD,2020-01-22
+365,BrandD Cookbook,5,BrandD,22.34,9.61,136,6.06,7x13x19,High-quality cookbook from BrandD,2020-12-14
+366,Premium Coffee Maker,3,Premium,437.87,297.11,168,2.17,24x15x15,High-quality coffee maker from Premium,2020-07-09
+367,BrandD Air Freshener,8,BrandD,119.27,48.68,112,1.32,29x6x16,High-quality air freshener from BrandD,2020-03-03
+368,BrandA Plant Pot,3,BrandA,234.47,121.87,52,7.73,42x12x4,High-quality plant pot from BrandA,2019-12-25
+369,Deluxe Doll,7,Deluxe,61.27,26.75,193,2.18,36x43x13,High-quality doll from Deluxe,2020-10-10
+370,BrandD Camera,1,BrandD,460.14,196.59,129,3.66,21x37x5,High-quality camera from BrandD,2021-07-24
+371,BrandA Running Shoes,4,BrandA,129.51,68.12,25,3.61,24x9x15,High-quality running shoes from BrandA,2020-09-07
+372,BrandB Yoga Mat,4,BrandB,203.87,131.1,120,0.26,22x46x12,High-quality yoga mat from BrandB,2019-04-03
+373,BrandD Action Figure,7,BrandD,24.06,9.69,132,1.64,49x35x3,High-quality action figure from BrandD,2019-05-06
+374,BrandD Self-Help Book,5,BrandD,44.65,26.71,95,6.21,15x31x7,High-quality self-help book from BrandD,2019-12-24
+375,BrandC Doll,7,BrandC,62.45,40.16,46,3.71,12x15x2,High-quality doll from BrandC,2021-10-15
+376,BrandE Shampoo,6,BrandE,45.14,23.11,67,6.26,6x6x12,High-quality shampoo from BrandE,2019-02-28
+377,BrandA Glue Set,10,BrandA,57.24,25.37,104,0.56,29x43x25,High-quality glue set from BrandA,2021-12-11
+378,BrandC Headphones,1,BrandC,245.22,123.74,57,1.01,9x12x17,High-quality headphones from BrandC,2021-08-09
+379,Standard Glue Set,10,Standard,37.51,24.65,163,0.11,35x35x10,High-quality glue set from Standard,2019-09-20
+380,Standard Vitamins,6,Standard,41.63,24.32,183,1.05,36x41x8,High-quality vitamins from Standard,2019-09-15
+381,Standard Shampoo,6,Standard,19.94,13.61,57,6.63,11x50x14,High-quality shampoo from Standard,2020-08-01
+382,BrandB Bedding Set,3,BrandB,139.89,66.48,186,6.63,26x50x16,High-quality bedding set from BrandB,2021-11-30
+383,BrandC Craft Paper,10,BrandC,29.97,15.36,37,5.84,7x29x22,High-quality craft paper from BrandC,2019-04-09
+384,BrandC Tea Set,9,BrandC,5.64,3.33,60,1.7,25x5x20,High-quality tea set from BrandC,2021-09-11
+385,Premium Protein Bar,9,Premium,13.45,8.89,147,4.12,18x34x21,High-quality protein bar from Premium,2020-06-22
+386,BrandB Hat,2,BrandB,152.82,91.18,131,9.25,26x16x10,High-quality hat from BrandB,2020-11-29
+387,Standard Toy Car,7,Standard,43.03,18.46,87,7.66,21x9x13,High-quality toy car from Standard,2021-05-23
+388,Standard Fiction Novel,5,Standard,15.05,7.05,117,8.32,12x40x24,High-quality fiction novel from Standard,2020-08-28
+389,Premium Dress,2,Premium,71.8,38.11,21,9.67,37x16x14,High-quality dress from Premium,2021-11-12
+390,BrandC Cookbook,5,BrandC,43.6,20.34,4,2.07,27x38x21,High-quality cookbook from BrandC,2019-11-07
+391,Standard Water Bottle,4,Standard,169.39,108.42,92,5.44,49x38x7,High-quality water bottle from Standard,2021-02-05
+392,BrandB Tea Set,9,BrandB,35.62,21.03,158,2.34,50x14x19,High-quality tea set from BrandB,2021-05-18
+393,BrandE Action Figure,7,BrandE,15.33,10.59,102,3.04,38x31x17,High-quality action figure from BrandE,2021-08-16
+394,BrandC Sneakers,2,BrandC,148.49,72.76,19,2.59,40x47x11,High-quality sneakers from BrandC,2020-03-03
+395,Deluxe Self-Help Book,5,Deluxe,48.37,20.21,105,1.49,35x15x9,High-quality self-help book from Deluxe,2021-03-12
+396,Basic Sketchbook,10,Basic,34.2,15.66,89,0.8,22x13x14,High-quality sketchbook from Basic,2019-09-10
+397,BrandD Dress,2,BrandD,97.03,58.38,194,3.34,45x12x18,High-quality dress from BrandD,2020-09-29
+398,BrandB Water Bottle,4,BrandB,237.21,137.47,59,6.64,24x12x19,High-quality water bottle from BrandB,2021-07-19
+399,BrandB Action Figure,7,BrandB,71.86,45.0,184,3.48,22x7x14,High-quality action figure from BrandB,2020-06-07
+400,Elite Car Mat,8,Elite,72.5,32.66,181,6.95,36x23x9,High-quality car mat from Elite,2021-12-06
+401,BrandB Coffee Maker,3,BrandB,498.85,289.83,153,8.66,20x47x17,High-quality coffee maker from BrandB,2021-06-04
+402,BrandA Toy Car,7,BrandA,55.39,36.53,71,8.44,22x21x22,High-quality toy car from BrandA,2021-11-06
+403,Basic Bicycle,4,Basic,208.42,99.08,91,0.92,11x50x17,High-quality bicycle from Basic,2020-05-12
+404,Elite Self-Help Book,5,Elite,18.86,10.0,68,1.13,50x36x19,High-quality self-help book from Elite,2021-02-08
+405,BrandA Camera,1,BrandA,1223.24,705.94,164,9.55,41x11x5,High-quality camera from BrandA,2020-05-03
+406,Deluxe Craft Paper,10,Deluxe,53.06,35.61,107,8.17,50x7x13,High-quality craft paper from Deluxe,2021-06-20
+407,Deluxe Backpack,4,Deluxe,262.44,107.91,102,8.15,45x32x23,High-quality backpack from Deluxe,2019-02-22
+408,Deluxe Action Figure,7,Deluxe,24.29,14.31,84,1.08,31x6x25,High-quality action figure from Deluxe,2021-07-24
+409,Premium Craft Paper,10,Premium,62.83,31.62,63,2.84,8x25x16,High-quality craft paper from Premium,2020-06-22
+410,BrandD Yoga Mat,4,BrandD,178.58,117.69,165,3.29,30x27x7,High-quality yoga mat from BrandD,2021-10-20
+411,Premium Face Cream,6,Premium,40.37,22.67,58,3.23,24x11x25,High-quality face cream from Premium,2019-07-05
+412,Premium Protein Bar,9,Premium,32.98,19.52,193,3.89,21x50x17,High-quality protein bar from Premium,2020-12-19
+413,Elite Craft Paper,10,Elite,68.02,42.61,43,3.3,12x17x20,High-quality craft paper from Elite,2020-09-27
+414,Standard Doll,7,Standard,32.14,18.25,45,4.04,49x9x8,High-quality doll from Standard,2019-07-11
+415,Deluxe Fiction Novel,5,Deluxe,46.59,27.91,67,1.54,26x39x13,High-quality fiction novel from Deluxe,2021-03-23
+416,Basic Shampoo,6,Basic,17.53,12.04,75,6.17,10x25x9,High-quality shampoo from Basic,2021-06-25
+417,BrandD Paint Set,10,BrandD,44.72,26.84,70,0.36,19x49x9,High-quality paint set from BrandD,2020-05-17
+418,Elite Sweater,2,Elite,134.86,62.68,3,3.04,6x44x17,High-quality sweater from Elite,2021-06-17
+419,Standard Camera,1,Standard,1124.89,641.67,105,1.94,38x42x14,High-quality camera from Standard,2021-03-03
+420,Premium Jacket,2,Premium,163.63,78.39,94,3.71,20x25x19,High-quality jacket from Premium,2021-01-01
+421,BrandC Board Game,7,BrandC,33.87,21.96,179,2.54,39x42x6,High-quality board game from BrandC,2019-07-17
+422,Elite Makeup Kit,6,Elite,57.25,24.7,154,2.36,27x50x24,High-quality makeup kit from Elite,2020-04-03
+423,BrandE Hat,2,BrandE,121.24,50.43,158,4.43,42x32x4,High-quality hat from BrandE,2019-12-17
+424,Standard Smartphone,1,Standard,924.51,550.16,88,4.82,50x14x4,High-quality smartphone from Standard,2020-12-26
+425,BrandE Board Game,7,BrandE,50.74,34.72,186,0.37,43x36x15,High-quality board game from BrandE,2019-10-01
+426,BrandD Protein Bar,9,BrandD,34.78,17.14,178,6.78,26x19x20,High-quality protein bar from BrandD,2021-11-06
+427,BrandC Boots,2,BrandC,156.77,108.81,150,3.21,5x44x3,High-quality boots from BrandC,2021-01-03
+428,BrandB Water Bottle,4,BrandB,238.02,100.28,16,5.34,15x17x9,High-quality water bottle from BrandB,2020-01-03
+429,BrandA Dress,2,BrandA,135.14,74.12,30,3.38,11x30x20,High-quality dress from BrandA,2021-03-04
+430,Basic Boots,2,Basic,143.84,63.51,87,1.91,24x27x7,High-quality boots from Basic,2021-05-31
+431,Elite Smart Watch,1,Elite,226.93,108.51,51,2.34,46x45x4,High-quality smart watch from Elite,2020-11-26
+432,BrandB Protein Bar,9,BrandB,28.57,11.6,155,0.7,40x8x23,High-quality protein bar from BrandB,2021-02-03
+433,BrandC Fiction Novel,5,BrandC,10.07,7.0,3,0.15,29x24x2,High-quality fiction novel from BrandC,2021-02-06
+434,BrandC Jeans,2,BrandC,49.87,29.24,46,5.4,27x11x23,High-quality jeans from BrandC,2019-11-13
+435,Deluxe Chocolate,9,Deluxe,12.96,6.9,197,1.86,14x33x2,High-quality chocolate from Deluxe,2019-03-21
+436,BrandE Paint Set,10,BrandE,70.65,30.54,174,1.89,38x15x5,High-quality paint set from BrandE,2021-10-16
+437,Deluxe Tea Set,9,Deluxe,11.99,7.0,86,9.38,47x40x14,High-quality tea set from Deluxe,2021-07-06
+438,Standard Coffee Beans,9,Standard,7.95,3.77,36,2.47,36x17x14,High-quality coffee beans from Standard,2019-03-27
+439,BrandA Speaker,1,BrandA,1837.39,1242.7,168,7.11,42x11x18,High-quality speaker from BrandA,2019-07-06
+440,Standard Sneakers,2,Standard,119.15,72.76,133,4.0,39x46x8,High-quality sneakers from Standard,2020-08-01
+441,BrandC Sneakers,2,BrandC,97.86,44.96,160,4.32,32x29x4,High-quality sneakers from BrandC,2021-10-01
+442,Elite Board Game,7,Elite,19.09,10.85,156,3.95,36x23x23,High-quality board game from Elite,2019-04-23
+443,BrandA Self-Help Book,5,BrandA,17.52,7.48,150,7.5,41x39x7,High-quality self-help book from BrandA,2020-10-04
+444,BrandA Lamp,3,BrandA,276.46,114.5,77,3.91,27x39x3,High-quality lamp from BrandA,2021-06-07
+445,Standard Tent,4,Standard,169.1,76.68,94,6.84,7x18x5,High-quality tent from Standard,2021-07-25
+446,BrandD Vacuum Cleaner,3,BrandD,361.96,152.71,52,5.0,41x45x21,High-quality vacuum cleaner from BrandD,2019-02-01
+447,Basic Fiction Novel,5,Basic,18.24,11.07,74,0.15,20x47x12,High-quality fiction novel from Basic,2019-12-29
+448,BrandD Protein Bar,9,BrandD,21.73,14.15,11,1.64,43x20x21,High-quality protein bar from BrandD,2020-06-12
+449,Deluxe Protein Bar,9,Deluxe,36.96,24.79,79,2.13,46x22x15,High-quality protein bar from Deluxe,2019-01-21
+450,Basic Glue Set,10,Basic,33.27,21.72,48,8.19,36x21x21,High-quality glue set from Basic,2019-01-22
+451,BrandA Biography,5,BrandA,37.84,20.23,169,6.93,9x45x5,High-quality biography from BrandA,2019-08-25
+452,Elite Shampoo,6,Elite,14.12,7.92,42,9.44,21x48x24,High-quality shampoo from Elite,2021-03-26
+453,Standard Craft Paper,10,Standard,27.19,17.85,66,1.17,12x30x8,High-quality craft paper from Standard,2019-06-27
+454,BrandD Protein Bar,9,BrandD,10.72,7.49,120,4.84,12x19x3,High-quality protein bar from BrandD,2021-03-05
+455,BrandB Cookbook,5,BrandB,40.5,26.0,61,4.42,28x33x25,High-quality cookbook from BrandB,2019-10-20
+456,Deluxe Protein Bar,9,Deluxe,39.61,23.72,128,7.69,17x18x25,High-quality protein bar from Deluxe,2020-10-13
+457,Deluxe Fiction Novel,5,Deluxe,10.57,4.71,64,9.23,27x34x8,High-quality fiction novel from Deluxe,2019-04-26
+458,Basic Boots,2,Basic,43.32,21.12,16,2.33,45x17x12,High-quality boots from Basic,2021-06-17
+459,Elite Coffee Maker,3,Elite,53.3,25.25,135,2.95,15x14x19,High-quality coffee maker from Elite,2020-10-12
+460,BrandB Paint Set,10,BrandB,53.88,28.18,136,0.27,15x25x13,High-quality paint set from BrandB,2019-03-20
+461,BrandB Cookbook,5,BrandB,37.37,15.01,0,5.67,29x41x5,High-quality cookbook from BrandB,2020-04-04
+462,BrandA Lamp,3,BrandA,290.55,122.66,166,8.26,35x41x22,High-quality lamp from BrandA,2021-03-01
+463,Deluxe Science Textbook,5,Deluxe,25.47,17.14,60,6.86,44x21x13,High-quality science textbook from Deluxe,2021-07-20
+464,BrandC Tire Gauge,8,BrandC,76.32,50.66,57,1.53,45x16x14,High-quality tire gauge from BrandC,2020-06-10
+465,Premium Dress,2,Premium,151.9,80.43,76,1.53,34x31x24,High-quality dress from Premium,2020-04-09
+466,BrandC Biography,5,BrandC,43.61,22.06,103,4.27,31x34x25,High-quality biography from BrandC,2021-07-15
+467,Basic Hat,2,Basic,100.75,50.51,170,4.05,38x18x9,High-quality hat from Basic,2020-03-20
+468,Deluxe Tablet,1,Deluxe,429.47,284.34,168,7.86,28x34x19,High-quality tablet from Deluxe,2021-04-16
+469,BrandE Vitamins,6,BrandE,27.64,12.23,27,5.47,33x24x21,High-quality vitamins from BrandE,2021-04-24
+470,BrandD Fiction Novel,5,BrandD,18.69,10.57,40,6.63,38x32x7,High-quality fiction novel from BrandD,2021-06-26
+471,BrandD Car Mat,8,BrandD,67.11,40.27,69,9.84,48x41x6,High-quality car mat from BrandD,2021-04-03
+472,BrandC Sweater,2,BrandC,91.09,49.24,189,1.39,36x25x21,High-quality sweater from BrandC,2021-12-22
+473,BrandB T-Shirt,2,BrandB,160.59,68.37,2,9.21,8x26x4,High-quality t-shirt from BrandB,2020-10-03
+474,BrandD Puzzle,7,BrandD,62.56,43.0,78,8.42,28x44x12,High-quality puzzle from BrandD,2021-07-03
+475,Premium Backpack,4,Premium,218.49,106.39,25,8.04,15x14x7,High-quality backpack from Premium,2021-04-30
+476,Standard Laptop,1,Standard,1824.95,954.27,143,5.57,35x49x10,High-quality laptop from Standard,2020-05-25
+477,BrandC Jeans,2,BrandC,183.2,78.61,10,1.44,29x35x14,High-quality jeans from BrandC,2021-09-03
+478,BrandA Air Freshener,8,BrandA,94.13,65.55,92,9.32,42x41x7,High-quality air freshener from BrandA,2021-07-05
+479,Elite Car Mat,8,Elite,142.79,81.4,86,9.88,28x9x7,High-quality car mat from Elite,2019-10-04
+480,Basic Phone Mount,8,Basic,138.76,60.12,171,2.05,45x25x11,High-quality phone mount from Basic,2019-06-20
+481,Deluxe Chocolate,9,Deluxe,49.26,27.02,159,8.92,31x15x13,High-quality chocolate from Deluxe,2020-06-01
+482,Standard Sketchbook,10,Standard,26.78,14.89,6,4.95,15x8x22,High-quality sketchbook from Standard,2020-05-04
+483,BrandE Phone Mount,8,BrandE,75.61,40.06,10,2.8,47x34x23,High-quality phone mount from BrandE,2019-06-14
+484,Standard Chocolate,9,Standard,6.41,4.24,159,0.21,41x6x11,High-quality chocolate from Standard,2021-02-18
+485,Elite Tea Set,9,Elite,22.1,9.08,172,2.78,29x26x13,High-quality tea set from Elite,2021-11-15
+486,Basic Glue Set,10,Basic,55.39,24.36,88,7.22,40x17x17,High-quality glue set from Basic,2020-07-30
+487,BrandB Phone Mount,8,BrandB,138.3,93.44,21,8.07,25x37x5,High-quality phone mount from BrandB,2019-02-17
+488,BrandB Air Freshener,8,BrandB,47.8,21.66,16,1.62,20x10x4,High-quality air freshener from BrandB,2019-01-20
+489,Premium Face Cream,6,Premium,88.05,51.53,39,5.87,34x45x12,High-quality face cream from Premium,2019-08-05
+490,BrandB Bedding Set,3,BrandB,46.96,20.74,190,9.27,16x10x24,High-quality bedding set from BrandB,2019-07-07
+491,Basic Board Game,7,Basic,65.83,30.94,12,7.2,29x25x22,High-quality board game from Basic,2021-12-20
+492,Elite Tablet,1,Elite,1644.22,1007.04,126,6.09,16x35x11,High-quality tablet from Elite,2019-05-06
+493,BrandC Perfume,6,BrandC,54.7,23.19,50,2.71,39x41x8,High-quality perfume from BrandC,2019-09-11
+494,BrandD Face Cream,6,BrandD,25.21,12.51,58,1.71,45x42x11,High-quality face cream from BrandD,2021-04-24
+495,BrandE Makeup Kit,6,BrandE,28.08,13.35,88,7.38,38x5x22,High-quality makeup kit from BrandE,2020-05-30
+496,BrandC Chocolate,9,BrandC,7.91,3.31,88,9.04,8x44x15,High-quality chocolate from BrandC,2019-06-13
+497,Elite Lamp,3,Elite,25.76,16.06,22,3.25,28x49x23,High-quality lamp from Elite,2019-05-15
+498,BrandE Water Bottle,4,BrandE,224.97,111.52,91,7.45,35x28x17,High-quality water bottle from BrandE,2020-09-06
+499,Premium Biography,5,Premium,31.84,19.85,58,5.91,7x49x13,High-quality biography from Premium,2021-04-19
+500,Elite Plant Pot,3,Elite,175.7,112.25,103,4.69,34x33x6,High-quality plant pot from Elite,2019-10-18

@@ -1,0 +1,6 @@
+promotion_id,promotion_name,description,discount_percentage,start_date,end_date,is_active
+1,Summer Sale 2024,20% off on all summer items,20.0,2024-06-01,2024-08-31,True
+2,Black Friday Deal,50% off electronics,50.0,2023-11-24,2023-11-26,False
+3,New Year Special,15% off everything,15.0,2024-01-01,2024-01-15,False
+4,Spring Cleaning,30% off home & garden,30.0,2024-03-01,2024-04-30,False
+5,Back to School,25% off books and supplies,25.0,2024-08-01,2024-09-15,True
